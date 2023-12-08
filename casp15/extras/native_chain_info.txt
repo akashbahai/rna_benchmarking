@@ -1,0 +1,8 @@
+Number of chains in r1107/r1107_native.pdb: 1
+Number of chains in r1108/r1108_native.pdb: 2
+Number of chains in r1126/r1126_native.pdb: 1
+Number of chains in r1128/r1128_native.pdb: 1
+Number of chains in r1136/r1136_native.pdb: 1
+Number of chains in r1138/r1138_native.pdb: 1
+Number of chains in r1189/r1189_native.pdb: 1
+Number of chains in r1190/r1190_native.pdb: 1

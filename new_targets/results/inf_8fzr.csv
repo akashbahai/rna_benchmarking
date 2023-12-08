@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+8fzr_native_cut.pdb,8fzr_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8fzr_native_cut.pdb,8fzr_rf_cut.pdb,0.56,0.61,0.5,0.25,1.0,0.25,0.25,0.25
+8fzr_native_cut.pdb,8fzr_rhofold_cut.pdb,0.56,0.61,0.49,0.35,1.0,0.24,0.5,0.25
+8fzr_native_cut.pdb,8fzr_drfold_cut.pdb,0.55,0.59,0.51,0.25,1.0,0.26,0.25,0.25
+8fzr_native_cut.pdb,8fzr_rnac_cut.pdb,0.55,0.61,0.49,0.18,1.0,0.24,0.25,0.12
+8fzr_native_cut.pdb,8fzr_trr_cut.pdb,0.55,0.6,0.53,0.18,1.0,0.28,0.25,0.12
+8fzr_native_cut.pdb,8fzr_df_cut.pdb,0.52,0.56,0.5,0.19,1.0,0.25,0.25,0.14
+8fzr_native_cut.pdb,8fzr_3drna_cut.pdb,0.42,0.46,0.41,0.0,0.8,0.21,0.0,0.0

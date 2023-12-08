@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+pz29_native_cut.pdb,pz29_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+pz29_native_cut.pdb,pz29_rf_cut.pdb,0.95,0.93,1.0,1.0,1.0,1.0,1.0,1.0
+pz29_native_cut.pdb,pz29_df_cut.pdb,0.9,0.89,0.94,0.8,0.89,1.0,0.8,0.8
+pz29_native_cut.pdb,pz29_drfold_cut.pdb,0.88,0.86,0.94,0.89,0.89,1.0,0.8,1.0
+pz29_native_cut.pdb,pz29_rhofold_cut.pdb,0.87,0.85,0.94,0.89,0.89,1.0,0.8,1.0
+pz29_native_cut.pdb,pz29_trr_cut.pdb,0.85,0.85,0.85,0.89,0.72,1.0,0.8,1.0
+pz29_native_cut.pdb,pz29_3drna_cut.pdb,0.75,0.75,0.85,0.45,0.72,1.0,0.4,0.5
+pz29_native_cut.pdb,pz29_rnac_cut.pdb,0.63,0.66,0.57,0.63,0.5,0.64,0.4,1.0

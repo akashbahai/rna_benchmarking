@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+pz19_native_cut.pdb,pz19_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+pz19_native_cut.pdb,pz19_df_cut.pdb,0.77,0.8,0.72,0.5,0.86,0.6,0.5,0.5
+pz19_native_cut.pdb,pz19_drfold_cut.pdb,0.76,0.75,0.8,0.71,0.86,0.75,0.5,1.0
+pz19_native_cut.pdb,pz19_rhofold_cut.pdb,0.76,0.79,0.76,0.0,0.86,0.67,0.0,0.0
+pz19_native_cut.pdb,pz19_rf_cut.pdb,0.75,0.81,0.63,0.0,0.71,0.56,0.0,0.0
+pz19_native_cut.pdb,pz19_trr_cut.pdb,0.75,0.78,0.72,0.0,0.86,0.6,0.0,0.0
+pz19_native_cut.pdb,pz19_rnac_cut.pdb,0.64,0.68,0.63,0.0,0.86,0.46,0.0,0.0
+pz19_native_cut.pdb,pz19_3drna_cut.pdb,0.62,0.61,0.71,0.0,0.71,0.71,0.0,0.0

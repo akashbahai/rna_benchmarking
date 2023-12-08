@@ -1,0 +1,9 @@
+fn,rmsd_all
+pz34_3drna_rpr.pdb,-1 
+pz34_df_rpr.pdb,-1 
+pz34_drfold_rpr.pdb,-1 
+pz34_native_rpr.pdb,0.0 
+pz34_rf_rpr.pdb,-1 
+pz34_rhofold_rpr.pdb,-1 
+pz34_rnac_rpr.pdb,-1 
+pz34_trr_rpr.pdb,-1 

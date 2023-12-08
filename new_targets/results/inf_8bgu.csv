@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+8bgu_native_cut.pdb,8bgu_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8bgu_native_cut.pdb,8bgu_rhofold_cut.pdb,0.89,0.9,0.97,0.64,1.0,0.94,0.67,0.62
+8bgu_native_cut.pdb,8bgu_rf_cut.pdb,0.88,0.89,0.95,0.65,0.91,1.0,0.53,0.8
+8bgu_native_cut.pdb,8bgu_drfold_cut.pdb,0.87,0.88,0.95,0.55,0.91,1.0,0.53,0.57
+8bgu_native_cut.pdb,8bgu_df_cut.pdb,0.84,0.84,0.92,0.55,0.88,0.97,0.4,0.75
+8bgu_native_cut.pdb,8bgu_trr_cut.pdb,0.84,0.86,0.9,0.52,0.81,1.0,0.4,0.67
+8bgu_native_cut.pdb,8bgu_3drna_cut.pdb,0.67,0.7,0.67,0.39,0.72,0.62,0.27,0.57
+8bgu_native_cut.pdb,8bgu_rnac_cut.pdb,0.66,0.7,0.66,0.41,0.72,0.6,0.33,0.5

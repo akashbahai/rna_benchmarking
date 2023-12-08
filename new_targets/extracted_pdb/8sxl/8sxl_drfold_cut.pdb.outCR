@@ -1,0 +1,10 @@
+Classifier: Clarna
+chains:  A 5 14
+A    5   A    6          bp A C                      >>   0.9834
+A    8   A    9          bp U A                      >>   0.9575
+A    9   A   10          bp A A                      >>   0.9673
+A   10   A   11          bp A G                      >>   0.9717
+A   11   A   12          bp G U                      >>   0.9741
+A   12   A   13          bp U C                      >>   0.9547
+A   13   A   14          bp C U                      >>   0.9539
+

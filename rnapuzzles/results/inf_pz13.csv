@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+pz13_native_cut.pdb,pz13_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+pz13_native_cut.pdb,pz13_rf_cut.pdb,0.97,0.98,1.0,0.82,1.0,1.0,0.67,1.0
+pz13_native_cut.pdb,pz13_df_cut.pdb,0.93,0.94,1.0,0.71,1.0,1.0,0.5,1.0
+pz13_native_cut.pdb,pz13_rhofold_cut.pdb,0.9,0.89,1.0,0.82,1.0,1.0,0.67,1.0
+pz13_native_cut.pdb,pz13_drfold_cut.pdb,0.89,0.88,1.0,0.71,1.0,1.0,0.5,1.0
+pz13_native_cut.pdb,pz13_trr_cut.pdb,0.86,0.89,0.95,0.0,0.91,1.0,0.0,0.0
+pz13_native_cut.pdb,pz13_3drna_cut.pdb,0.84,0.84,0.95,0.61,0.91,1.0,0.5,0.75
+pz13_native_cut.pdb,pz13_rnac_cut.pdb,0.84,0.83,0.96,0.77,1.0,0.92,0.83,0.71

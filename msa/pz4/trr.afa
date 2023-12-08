@@ -1,0 +1,1072 @@
+>seq  E=0.0
+GGCTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCACTAGTCTAGCG
+TCAGCTTCGGCTGACGCTAGGCTAGTGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCCA-
+>URS000080E09F(1-126:126)   E=7e-59 s/c=1.85 id=99% cov=101%
+GGCTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCACTAGTCTAGCG
+TCAGCTTCGGCTGACGCTAGGCTAGTGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCCA-
+>URS000080DF35(1-49:94)   E=4e-16 s/c=1.87 id=98% cov=40%
+GGCTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS000080DF35(54-94:94)   E=1e-11 s/c=1.87 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCCA-
+>URS000080DF1C(1-49:94)   E=4e-16 s/c=1.87 id=98% cov=40%
+GGCTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS000080DF1C(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0001BC8577(3-50:112)   E=2e-15 s/c=1.87 id=98% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000C68CAB(3-50:111)   E=2e-15 s/c=1.87 id=98% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000AB653F(3-50:112)   E=2e-15 s/c=1.87 id=98% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0001BC7E30(3-49:100)   E=5e-15 s/c=1.87 id=98% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000DA22DD(3-52:113)   E=5e-15 s/c=1.76 id=96% cov=40%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCGCTA--------
+------------------------------------------------------------
+-------
+>URS0000C8628E(3-49:109)   E=5e-15 s/c=1.87 id=98% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000AB4A02(3-49:100)   E=5e-15 s/c=1.87 id=98% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0001BC291C(3-48:100)   E=2e-14 s/c=1.87 id=98% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C0BB5E(3-48:105)   E=2e-14 s/c=1.87 id=98% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C05535(3-48:112)   E=2e-14 s/c=1.87 id=98% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB9EBD(3-48:100)   E=2e-14 s/c=1.87 id=98% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS000080E279(1-49:94)   E=2e-14 s/c=1.76 id=96% cov=40%
+GGCTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAGCCA-----------
+------------------------------------------------------------
+-------
+>URS000080E279(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS000080E047(1-49:94)   E=2e-14 s/c=1.76 id=96% cov=40%
+GGCTTATCAAGAGAGGTGGAGGGACTGGCCCGACGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS000080E047(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000D856BB(3-50:98)   E=7e-14 s/c=1.75 id=96% cov=39%
+--CTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000D80CAE(3-50:98)   E=7e-14 s/c=1.75 id=96% cov=39%
+--CTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000C379B7(3-50:92)   E=7e-14 s/c=1.75 id=96% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000C0C414(3-50:111)   E=7e-14 s/c=1.75 id=96% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000AB514A(2-49:105)   E=7e-14 s/c=1.75 id=96% cov=39%
+-GCTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0001BC292B(2-48:98)   E=3e-13 s/c=1.75 id=96% cov=38%
+-GCTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DA4F63(2-48:98)   E=3e-13 s/c=1.75 id=96% cov=38%
+-GCTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DA44C6(3-49:110)   E=3e-13 s/c=1.75 id=96% cov=38%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000DA1B54(3-49:115)   E=3e-13 s/c=1.75 id=96% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000D9E948(3-53:121)   E=3e-13 s/c=1.62 id=96% cov=40%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCAgCTA-------
+------------------------------------------------------------
+-------
+>URS0000D87508(2-48:109)   E=3e-13 s/c=1.75 id=96% cov=38%
+-GCTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C77F14(3-49:111)   E=3e-13 s/c=1.75 id=96% cov=38%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C12EC7(3-49:102)   E=3e-13 s/c=1.75 id=96% cov=38%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000ABB9BF(3-49:108)   E=3e-13 s/c=1.75 id=96% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000AB8E86(2-48:98)   E=3e-13 s/c=1.75 id=96% cov=38%
+-GCTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB2AFB(3-49:107)   E=3e-13 s/c=1.75 id=96% cov=38%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000154858(2-48:98)   E=3e-13 s/c=1.75 id=96% cov=38%
+-GCTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC89E1(3-48:110)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC5B31(3-48:112)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC1BCB(3-49:104)   E=9e-13 s/c=1.71 id=98% cov=37%
+--CTTATCAAGAGaAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS00019B85F5(3-48:107)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000E4D277(3-48:103)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DB5C45(3-48:101)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCTAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DA20AF(3-48:115)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DA06D1(3-48:92)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D9815C(3-48:108)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D96365(3-48:102)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGCGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D907D1(3-48:114)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D8ACE2(3-48:106)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C7FE25(3-49:131)   E=9e-13 s/c=1.71 id=98% cov=37%
+--CTTATCAAGAGcAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C7D469(3-49:126)   E=9e-13 s/c=1.71 id=98% cov=37%
+--CTTATCAAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C7ADB1(3-48:111)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCGAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C6E2E6(3-48:139)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C58390(3-48:97)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C57086(3-48:110)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C536B9(3-48:104)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C4A25F(3-48:110)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C4411D(3-49:135)   E=9e-13 s/c=1.71 id=98% cov=37%
+--CTTATCAAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C41C83(3-48:106)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C3B06D(3-48:129)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCGAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C35DE4(3-48:108)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C2FFAE(3-48:101)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C2F0B5(3-48:115)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCGAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C29E92(3-48:103)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C200E0(3-48:104)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATAAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000ABD769(3-48:98)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000ABD56A(3-49:117)   E=9e-13 s/c=1.71 id=98% cov=37%
+--CTTATCAAGAGcAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000ABCC19(3-49:104)   E=9e-13 s/c=1.71 id=98% cov=37%
+--CTTATCAAGAGaAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000ABA328(3-48:115)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB9AB1(3-48:112)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB9733(3-48:87)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGATACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB972A(3-48:105)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB93A8(3-48:100)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTCATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB820E(3-48:98)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB5758(3-48:110)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB53FC(3-48:112)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB47B4(3-49:139)   E=9e-13 s/c=1.71 id=98% cov=37%
+--CTTATCAAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000AB4426(3-48:110)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB270E(3-48:111)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB1F57(3-48:106)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000812502(3-48:115)   E=9e-13 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001D1F303(3-50:111)   E=3e-12 s/c=1.64 id=94% cov=39%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000DB6680(3-47:107)   E=3e-12 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAAC-------------
+------------------------------------------------------------
+-------
+>URS0000DA7064(3-50:111)   E=3e-12 s/c=1.64 id=94% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000DA121F(3-50:111)   E=3e-12 s/c=1.64 id=94% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000D92C7D(3-47:117)   E=3e-12 s/c=1.75 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAAC-------------
+------------------------------------------------------------
+-------
+>URS0000D8BA0C(3-47:109)   E=3e-12 s/c=1.75 id=96% cov=37%
+--CTTATCTAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAAC-------------
+------------------------------------------------------------
+-------
+>URS0000D8770B(3-53:112)   E=3e-12 s/c=1.54 id=92% cov=41%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAGTAG-------
+------------------------------------------------------------
+-------
+>URS0000D7EFF6(2-49:116)   E=3e-12 s/c=1.64 id=94% cov=39%
+-GCTTATCTAGAGCGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C74099(3-50:106)   E=3e-12 s/c=1.64 id=94% cov=39%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAATGAAGCCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000C1CC5D(3-50:153)   E=3e-12 s/c=1.64 id=94% cov=39%
+--CTTATCTAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000ABCEB4(3-47:108)   E=3e-12 s/c=1.75 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAATGAAACCCGGCAAC-------------
+------------------------------------------------------------
+-------
+>URS0000AB9E75(3-56:107)   E=3e-12 s/c=1.46 id=93% cov=44%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACCGCT-GTCTA---
+------------------------------------------------------------
+-------
+>URS0000AB81A8(3-50:111)   E=3e-12 s/c=1.64 id=94% cov=39%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAC----------
+------------------------------------------------------------
+-------
+>URS0000AB804C(4-48:96)   E=3e-12 s/c=1.75 id=96% cov=37%
+---TTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS00022DCBDE(3-49:109)   E=1e-11 s/c=1.63 id=94% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAATGAAACCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000DB48FB(3-49:101)   E=1e-11 s/c=1.63 id=94% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000D9DEC3(3-49:101)   E=1e-11 s/c=1.63 id=94% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAATGAAACCCGACAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C0AA4A(3-49:107)   E=1e-11 s/c=1.63 id=94% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000ABBF3F(3-56:113)   E=1e-11 s/c=1.42 id=93% cov=43%
+--CTTATCGCGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACCACTAaGTC----
+------------------------------------------------------------
+-------
+>URS0000AB40E1(3-49:110)   E=1e-11 s/c=1.63 id=94% cov=38%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000AB2024(3-49:108)   E=1e-11 s/c=1.63 id=94% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000A7635A(54-94:94)   E=1e-11 s/c=1.87 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCCA-
+>URS000032DAB7(3-49:106)   E=1e-11 s/c=1.63 id=94% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0002311979(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0002119B5A(3-48:104)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC97EB(3-49:101)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0001BC9085(3-48:106)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC72C0(3-48:105)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC72B6(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC6CA9(3-48:104)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC27A2(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC0337(3-48:107)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DB5F6F(3-48:112)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DA670B(3-48:114)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DA03D9(3-48:110)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGCGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D9FA75(3-48:148)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D9B750(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D8E7B2(3-48:111)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D7F87C(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGCGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D78E82(3-48:118)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C86D88(3-49:115)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCGAGAGcAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C86C86(3-48:105)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C7EB02(3-48:111)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C7B778(3-48:109)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCACGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C78F75(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C75755(3-48:114)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGCGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C6D2FC(3-49:102)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C6143F(3-48:163)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C5B151(3-48:113)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C5901E(3-48:115)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C5204C(3-48:110)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C3A453(3-48:102)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C35ED1(3-48:103)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C331AE(3-49:143)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCCAGAGaAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C2BE93(3-48:97)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C2580E(3-48:110)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C2266F(3-54:113)   E=4e-11 s/c=1.44 id=91% cov=42%
+--CTTATCAAGAGTGGTTGAGGGACTGGCCCGATGAAACCCGGCAACAGCTAGT------
+------------------------------------------------------------
+-------
+>URS0000C21610(3-48:106)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C1E97F(3-48:105)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGTTGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C1D659(3-48:108)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C172F1(3-48:100)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C0709C(3-48:108)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCGACAACC------------
+------------------------------------------------------------
+-------
+>URS0000C051F1(3-48:146)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000BC4670(54-93:95)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000ABCCC8(3-49:101)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000ABCA53(3-48:105)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000ABC7BA(3-48:104)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000ABA50A(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB97B2(3-48:103)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB90D6(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB8999(3-48:105)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB81F1(3-48:115)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB78B9(3-48:99)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB6492(3-48:103)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGCGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB5A33(3-48:106)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB54AC(3-49:101)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000AB4ED8(3-48:149)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB3F60(3-49:123)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCGAGAGcAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000AB3965(3-48:103)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB15A9(3-49:99)   E=4e-11 s/c=1.60 id=96% cov=37%
+--CTTATCCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000AB157E(3-48:139)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000A76399(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A7638A(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A76386(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A76377(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A76363(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A7635B(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A76359(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A7634F(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A76344(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A76343(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS0000A7631C(54-93:93)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS000080E1B3(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS000080DFE5(54-93:94)   E=4e-11 s/c=1.88 id=98% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGAT
+GAGCC--
+>URS000040B728(3-48:117)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000312A16(3-48:87)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000114DA0(3-48:107)   E=4e-11 s/c=1.63 id=94% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D87E15(4-48:112)   E=2e-10 s/c=1.62 id=93% cov=37%
+---TTATCTAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C7FA8D(3-48:107)   E=2e-10 s/c=1.59 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCtCGGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000C62A92(3-47:108)   E=2e-10 s/c=1.62 id=93% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAAC-------------
+------------------------------------------------------------
+-------
+>URS0000C4CC92(2-49:102)   E=2e-10 s/c=1.52 id=96% cov=38%
+-GCTTATCAAGAGAGGTGGAGGGACTGGCCCtGA-GAAACCCAGCAACCA----------
+------------------------------------------------------------
+-------
+>URS0000C3DFC9(2-49:107)   E=2e-10 s/c=1.52 id=92% cov=39%
+-GCTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C2D2AA(3-48:116)   E=2e-10 s/c=1.59 id=96% cov=37%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCtCGGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000AB9864(4-48:114)   E=2e-10 s/c=1.62 id=93% cov=37%
+---TTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB8FFF(4-48:112)   E=2e-10 s/c=1.62 id=93% cov=37%
+---TTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB5EB3(3-47:116)   E=2e-10 s/c=1.62 id=93% cov=37%
+--CTTATCTAGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAAC-------------
+------------------------------------------------------------
+-------
+>URS0000AB338E(4-48:96)   E=2e-10 s/c=1.62 id=93% cov=37%
+---TTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS00022F2A54(3-49:117)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0001BC5687(3-49:109)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAACAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000D9E7BD(3-49:108)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCCTGAGAGGTGGAGGGACTGGCCCGATGAAACCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000D9DFF5(3-49:109)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAACAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000D93943(3-49:107)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000D8C4A5(3-49:119)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C84E06(3-49:115)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C84726(3-49:113)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C676C6(3-50:104)   E=6e-10 s/c=1.49 id=94% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAATCCtCAGCAACCA----------
+------------------------------------------------------------
+-------
+>URS0000C6737E(3-49:115)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C413A1(3-49:111)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000C36A83(2-48:106)   E=6e-10 s/c=1.52 id=92% cov=38%
+-GCTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C15063(2-45:115)   E=6e-10 s/c=1.62 id=93% cov=36%
+-GCTTATCGAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCA---------------
+------------------------------------------------------------
+-------
+>URS0000C147A4(3-49:109)   E=6e-10 s/c=1.52 id=96% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCtGA-GAAACCCGACAACCA----------
+------------------------------------------------------------
+-------
+>URS0000C04AC0(3-49:108)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCCAGAGCGGCGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000ABC821(3-49:125)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCCGGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000ABB923(3-49:109)   E=6e-10 s/c=1.52 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAACAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000AB3CAE(2-48:94)   E=6e-10 s/c=1.52 id=92% cov=38%
+-GCTTATCCAGAGTGGCGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0002031EE8(4-49:107)   E=2e-09 s/c=1.51 id=91% cov=37%
+---TTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCCGGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0001BC4A21(3-48:109)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC3D0E(3-48:113)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC0B58(3-48:102)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTCATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC0B3C(3-48:110)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCCGGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000DB1F06(3-48:116)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAACAACC------------
+------------------------------------------------------------
+-------
+>URS0000DA7E14(3-48:111)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCAACAACC------------
+------------------------------------------------------------
+-------
+>URS0000D99654(3-45:104)   E=2e-09 s/c=1.61 id=93% cov=35%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCA---------------
+------------------------------------------------------------
+-------
+>URS0000D92E96(3-49:100)   E=2e-09 s/c=1.48 id=94% cov=37%
+--CTTATTCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C83021(3-49:99)   E=2e-09 s/c=1.48 id=94% cov=37%
+--CTTATTCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C6E767(3-48:107)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C5EB9D(3-48:107)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCCAGAGTGGCGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C4DE79(3-45:157)   E=2e-09 s/c=1.61 id=93% cov=35%
+--CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCA---------------
+------------------------------------------------------------
+-------
+>URS0000C49778(3-48:110)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGACAACC------------
+------------------------------------------------------------
+-------
+>URS0000C48A79(3-48:101)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATTTAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C3D858(3-45:113)   E=2e-09 s/c=1.61 id=93% cov=35%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCA---------------
+------------------------------------------------------------
+-------
+>URS0000C2FE0C(3-48:109)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAGTGAAACCCGACAACC------------
+------------------------------------------------------------
+-------
+>URS0000C1765F(3-48:107)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTCATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C174C9(3-48:113)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATTTAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C1439B(3-46:113)   E=2e-09 s/c=1.58 id=95% cov=35%
+--CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCtCGGCA--------------
+------------------------------------------------------------
+-------
+>URS0000C0E236(3-48:86)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C06D6B(3-48:112)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000ABCBC4(3-48:102)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTCATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000ABB689(3-49:99)   E=2e-09 s/c=1.48 id=94% cov=37%
+--CTTATTCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000ABB5EC(3-49:99)   E=2e-09 s/c=1.48 id=94% cov=37%
+--CTTATTCAGAGtAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000AB72F9(3-48:113)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB6A63(3-48:109)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATGCCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB4DF5(3-48:164)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000AB4D12(3-48:110)   E=2e-09 s/c=1.51 id=91% cov=37%
+--CTTATCCGGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0001BC5DC0(3-48:101)   E=7e-09 s/c=1.47 id=93% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGCTGAAACCtCAGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000C12A44(3-48:101)   E=7e-09 s/c=1.47 id=93% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGACGAAACCtCAGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000AB9484(3-48:101)   E=7e-09 s/c=1.47 id=93% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCGCTGAAACCtCAGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000D85C33(3-40:106)   E=3e-08 s/c=1.73 id=95% cov=31%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACC--------------------
+------------------------------------------------------------
+-------
+>URS0000C7EDC1(3-50:107)   E=3e-08 s/c=1.37 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTACGAAACCtCAGCAACCA----------
+------------------------------------------------------------
+-------
+>URS0000C59EDB(3-50:112)   E=3e-08 s/c=1.37 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCtCAGCAACCA----------
+------------------------------------------------------------
+-------
+>URS0000C05C75(3-49:109)   E=3e-08 s/c=1.40 id=90% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCAACAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000ABA953(3-49:104)   E=3e-08 s/c=1.40 id=90% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCCAGCAACCA-----------
+------------------------------------------------------------
+-------
+>URS0000AB361D(3-50:128)   E=3e-08 s/c=1.37 id=92% cov=38%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCtCAGCAACCA----------
+------------------------------------------------------------
+-------
+>URS0001BC591A(3-48:107)   E=9e-08 s/c=1.39 id=89% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGCGATACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000D9EF68(3-48:109)   E=9e-08 s/c=1.39 id=89% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCAACAACC------------
+------------------------------------------------------------
+-------
+>URS0000C7C099(3-48:108)   E=9e-08 s/c=1.39 id=89% cov=37%
+--CTTATAACGAGTGGTAGAGGGACTGGCCCGATGAAACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C78F78(3-48:104)   E=9e-08 s/c=1.39 id=89% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCAGTGAAGCCCAGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C677D0(3-46:103)   E=9e-08 s/c=1.45 id=93% cov=35%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAACCtCGGCA--------------
+------------------------------------------------------------
+-------
+>URS0000C2FEF7(3-46:102)   E=9e-08 s/c=1.45 id=93% cov=35%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAACCtCGGCA--------------
+------------------------------------------------------------
+-------
+>URS0000AB6CD7(3-49:89)   E=9e-08 s/c=1.36 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAACCtCAGCAACC-----------
+------------------------------------------------------------
+-------
+>URS000080E094(54-93:94)   E=9e-08 s/c=1.60 id=93% cov=33%
+------------------------------------------------------------
+-------------------------TGGTGCCAATTCCTGCAGCGGAAACGTTGAAAGCG
+GAGCC--
+>URS00001D0AD3(3-48:107)   E=9e-08 s/c=1.39 id=89% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGCGATACCCGGCAACC------------
+------------------------------------------------------------
+-------
+>URS0000C569F9(3-48:110)   E=3e-07 s/c=1.35 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCtCGGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000C43908(3-48:106)   E=3e-07 s/c=1.35 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGATACCtCGGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000C2FAC9(3-48:102)   E=3e-07 s/c=1.35 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCtCGGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000C29455(4-49:115)   E=3e-07 s/c=1.35 id=91% cov=37%
+---TTATATAGAGAGGTGGAGGGACTGGCCCGATGAAATCtCGGCAACC-----------
+------------------------------------------------------------
+-------
+>URS0000C2162A(3-48:101)   E=3e-07 s/c=1.35 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCATTGAAGCCtCGGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000C0D3FB(3-48:107)   E=3e-07 s/c=1.35 id=91% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCTTATGAAACCtCAGCAAC------------
+------------------------------------------------------------
+-------
+>URS0000C891F3(3-46:102)   E=4e-06 s/c=1.33 id=91% cov=35%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCtCGGCA--------------
+------------------------------------------------------------
+-------
+>URS0000C2F44E(3-46:101)   E=4e-06 s/c=1.33 id=91% cov=35%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTAAGATACCtCGGCA--------------
+------------------------------------------------------------
+-------
+>URS0000C262A7(3-48:107)   E=2e-05 s/c=1.23 id=89% cov=37%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGCGATACCtCGGCAAC------------
+------------------------------------------------------------
+-------
+>URS00020DAD9A(3-31:107)   E=6e-05 s/c=1.89 id=97% cov=24%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCC-----------------------------
+------------------------------------------------------------
+-------
+>URS0000D82D11(3-31:104)   E=6e-05 s/c=1.89 id=97% cov=24%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCC-----------------------------
+------------------------------------------------------------
+-------
+>URS0000C823FF(3-53:106)   E=6e-05 s/c=1.07 id=86% cov=40%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGATATCtCAGCAACCGCTA-------
+------------------------------------------------------------
+-------
+>URS0000C7314E(3-31:102)   E=6e-05 s/c=1.89 id=97% cov=24%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCC-----------------------------
+------------------------------------------------------------
+-------
+>URS0000C346CF(3-31:102)   E=6e-05 s/c=1.89 id=97% cov=24%
+--CTTATCAAGAGAGGTGGAGGGACTGGCCC-----------------------------
+------------------------------------------------------------
+-------

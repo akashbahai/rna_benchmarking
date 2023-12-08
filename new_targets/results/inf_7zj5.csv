@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+7zj5_native_cut.pdb,7zj5_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7zj5_native_cut.pdb,7zj5_3drna_cut.pdb,0.78,0.78,0.84,0.4,0.76,0.93,0.28,0.56
+7zj5_native_cut.pdb,7zj5_df_cut.pdb,0.78,0.82,0.75,0.47,0.56,1.0,0.31,0.71
+7zj5_native_cut.pdb,7zj5_rnac_cut.pdb,0.78,0.76,0.88,0.59,0.81,0.95,0.56,0.62
+7zj5_native_cut.pdb,7zj5_trr_cut.pdb,0.77,0.8,0.73,0.51,0.54,0.99,0.31,0.83
+7zj5_native_cut.pdb,7zj5_rf_cut.pdb,0.68,0.76,0.49,0.21,0.29,0.83,0.12,0.36
+7zj5_native_cut.pdb,7zj5_drfold_cut.pdb,0.3,0.32,0.44,0.08,0.21,0.91,0.09,0.06
+7zj5_native_cut.pdb,7zj5_rhofold_cut.pdb,0.06,0.07,0.0,0.0,0.0,0.0,0.0,0.0

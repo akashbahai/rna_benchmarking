@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+7yoj_native_cut.pdb,7yoj_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7yoj_native_cut.pdb,7yoj_df_cut.pdb,0.75,0.76,0.84,0.1,0.87,0.81,0.1,0.1
+7yoj_native_cut.pdb,7yoj_rnac_cut.pdb,0.72,0.72,0.81,0.27,0.87,0.76,0.3,0.25
+7yoj_native_cut.pdb,7yoj_3drna_cut.pdb,0.69,0.7,0.78,0.22,0.76,0.81,0.2,0.25
+7yoj_native_cut.pdb,7yoj_trr_cut.pdb,0.68,0.7,0.75,0.0,0.62,0.9,0.0,0.0
+7yoj_native_cut.pdb,7yoj_rhofold_cut.pdb,0.57,0.65,0.39,0.08,0.31,0.5,0.1,0.07
+7yoj_native_cut.pdb,7yoj_rf_cut.pdb,0.54,0.62,0.36,0.0,0.27,0.48,0.0,0.0
+7yoj_native_cut.pdb,7yoj_drfold_cut.pdb,0.5,0.51,0.54,0.0,0.38,0.77,0.0,0.0

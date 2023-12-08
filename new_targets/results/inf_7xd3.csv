@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+7xd3_native_cut.pdb,7xd3_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7xd3_native_cut.pdb,7xd3_df_cut.pdb,0.75,0.74,0.85,0.62,0.75,0.96,0.61,0.64
+7xd3_native_cut.pdb,7xd3_rf_cut.pdb,0.66,0.71,0.55,0.45,0.35,0.86,0.34,0.58
+7xd3_native_cut.pdb,7xd3_3drna_cut.pdb,0.62,0.64,0.64,0.38,0.57,0.72,0.37,0.4
+7xd3_native_cut.pdb,7xd3_trr_cut.pdb,0.62,0.64,0.63,0.42,0.42,0.93,0.37,0.48
+7xd3_native_cut.pdb,7xd3_rnac_cut.pdb,0.61,0.62,0.67,0.38,0.64,0.69,0.39,0.37
+7xd3_native_cut.pdb,7xd3_rhofold_cut.pdb,0.59,0.61,0.62,0.47,0.43,0.9,0.42,0.53
+7xd3_native_cut.pdb,7xd3_drfold_cut.pdb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+pz22_native_cut.pdb,pz22_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+pz22_native_cut.pdb,pz22_rf_cut.pdb,0.87,0.88,0.85,0.71,0.94,0.77,0.71,0.71
+pz22_native_cut.pdb,pz22_drfold_cut.pdb,0.84,0.85,0.94,0.44,0.89,1.0,0.29,0.67
+pz22_native_cut.pdb,pz22_df_cut.pdb,0.8,0.8,0.93,0.38,1.0,0.86,0.29,0.5
+pz22_native_cut.pdb,pz22_trr_cut.pdb,0.78,0.78,0.91,0.38,0.83,1.0,0.14,1.0
+pz22_native_cut.pdb,pz22_rhofold_cut.pdb,0.77,0.77,0.88,0.27,1.0,0.78,0.14,0.5
+pz22_native_cut.pdb,pz22_rnac_cut.pdb,0.76,0.76,0.87,0.31,0.94,0.81,0.29,0.33
+pz22_native_cut.pdb,pz22_3drna_cut.pdb,0.75,0.75,0.89,0.38,0.89,0.89,0.29,0.5

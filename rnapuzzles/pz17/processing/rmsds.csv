@@ -1,0 +1,9 @@
+fn,rmsd_all
+pz17_3drna_rpr.pdb,19.41 
+pz17_df_rpr.pdb,2.34 
+pz17_drfold_rpr.pdb,2.71 
+pz17_native_rpr.pdb,0.0 
+pz17_rf_rpr.pdb,15.75 
+pz17_rhofold_rpr.pdb,2.22 
+pz17_rnac_rpr.pdb,20.9 
+pz17_trr_rpr.pdb,2.11 

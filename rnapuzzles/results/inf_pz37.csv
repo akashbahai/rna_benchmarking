@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+pz37_native_cut.pdb,pz37_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+pz37_native_cut.pdb,pz37_rf_cut.pdb,0.64,0.68,0.78,0.26,0.62,1.0,0.07,1.0
+pz37_native_cut.pdb,pz37_rnac_cut.pdb,0.64,0.69,0.79,0.18,0.69,0.9,0.07,0.5
+pz37_native_cut.pdb,pz37_df_cut.pdb,0.6,0.66,0.78,0.0,0.62,1.0,0.0,0.0
+pz37_native_cut.pdb,pz37_trr_cut.pdb,0.56,0.6,0.68,0.26,0.46,1.0,0.07,1.0
+pz37_native_cut.pdb,pz37_rhofold_cut.pdb,0.53,0.58,0.56,0.26,0.31,1.0,0.07,1.0
+pz37_native_cut.pdb,pz37_drfold_cut.pdb,0.46,0.49,0.62,0.0,0.38,1.0,0.0,0.0
+pz37_native_cut.pdb,pz37_3drna_cut.pdb,0.42,0.61,0.0,0.0,0.0,0.0,0.0,0.0

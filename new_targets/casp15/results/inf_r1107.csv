@@ -1,0 +1,9 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+r1107_native_rpr.pdb,r1107_native_rpr.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+r1107_native_rpr.pdb,r1107_df_rpr.pdb,0.84,0.82,1.0,0.45,1.0,1.0,0.5,0.4
+r1107_native_rpr.pdb,r1107_rf_rpr.pdb,0.82,0.85,0.78,0.5,0.6,1.0,0.25,1.0
+r1107_native_rpr.pdb,r1107_rhofold_rpr.pdb,0.71,0.72,0.74,0.35,0.55,1.0,0.25,0.5
+r1107_native_rpr.pdb,r1107_trr_rpr.pdb,0.71,0.74,0.71,0.0,0.5,1.0,0.0,0.0
+r1107_native_rpr.pdb,r1107_drfold_rpr.pdb,0.61,0.7,0.4,0.0,0.35,0.47,0.0,0.0
+r1107_native_rpr.pdb,r1107_rnac_rpr.pdb,0.6,0.71,0.36,0.0,0.35,0.37,0.0,0.0
+r1107_native_rpr.pdb,r1107_3drna_rpr.pdb,0.54,0.63,0.34,0.0,0.3,0.38,0.0,0.0

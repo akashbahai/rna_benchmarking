@@ -1,0 +1,41 @@
+Classifier: Clarna
+chains:  A 2 61
+A    2   A   45          bp G C                  WW_cis   0.8754
+A    2   A    3          bp G A                      >>   0.9472
+A    3   A   44          bp A U                  WW_cis   0.9241
+A    3   A    4          bp A G                      >>   0.9405
+A    4   A    5          bp G C                      >>   0.9638
+A    4   A   43          bp G C                  WW_cis   0.7331
+A    5   A    6          bp C G                      >>   0.9527
+A    5   A   42          bp C G                  WW_cis   0.8786
+A    6   A    7          bp G U                      >>   0.9790
+A    6   A   42          bp G G                      <>   0.9329
+A   13   A   14          bp C C                      >>   0.9007
+A   19   A   20          bp G U                      >>   0.9531
+A   22   A   36          bp G G                      <<   0.9270
+A   22   A   35          bp G C                  WW_cis   0.8975
+A   22   A   23          bp G C                      >>   0.9798
+A   23   A   34          bp C G                  WW_cis   0.8908
+A   23   A   24          bp C A                      >>   0.9251
+A   24   A   34          bp A G                      <>   0.8932
+A   24   A   25          bp A U                      >>   0.9839
+A   25   A   26          bp U U                      >>   0.9081
+A   26   A   27          bp U G                      >>   0.9411
+A   29   A   30          bp A C                      >>   0.8628
+A   34   A   35          bp G C                      >>   0.9718
+A   35   A   36          bp C G                      ><   0.9331
+A   36   A   37          bp G A                      <>   0.9425
+A   37   A   38          bp A C                      >>   0.9678
+A   38   A   39          bp C A                      ><   0.7360
+A   39   A   40          bp A C                      <>   0.9525
+A   42   A   43          bp G C                      >>   0.9838
+A   43   A   44          bp C U                      >>   0.9609
+A   44   A   45          bp U C                      >>   0.9665
+A   45   A   46          bp C U                      >>   0.9293
+A   48   A   49          bp U A                      >>   0.6365
+A   49   A   50          bp A A                      >>   0.8849
+A   51   A   52          bp A A                      >>   0.7887
+A   52   A   53          bp A A                      >>   0.8662
+A   58   A   59          bp A G                      >>   0.8706
+A   60   A   61          bp G A                      >>   0.9415
+
