@@ -1,2 +1,2 @@
 # Systematic benchmarking of deep-learning methods for tertiary RNA structure prediction
-This repository contains the data for the manuscript "Systematic benchmarking of deep-learning methods for tertiary RNA structure prediction". 
+This repository contains the data for the manuscript "Systematic benchmarking of deep-learning methods for tertiary RNA structure prediction". The files for the three datasets are in the respective directories, and the ```MSA``` directory contains the alignment files for different tools which were used to calculate the N_{eff} using HMMalign.
