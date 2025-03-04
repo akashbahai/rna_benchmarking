@@ -1,0 +1,34 @@
+Classifier: Clarna
+chains:  A 1 35
+A    1   A    2          bp U G                      >>   0.8555
+A    2   A    3          bp G U                      >>   0.9860
+A    5   A    6          bp A U                      >>   0.9814
+A    6   A    7          bp U G                      >>   0.9123
+A    7   A    8          bp G C                      >>   0.9836
+A    8   A    9          bp C U                      >>   0.9616
+A    9   A   10          bp U U                      >>   0.9805
+A   10   A   11          bp U C                      >>   0.9739
+A   11   A   12          bp C G                      >>   0.7903
+A   12   A   13          bp G C                      >>   0.9798
+A   13   A   14          bp C G                      >>   0.7909
+A   14   A   15          bp G U                      >>   0.9695
+A   15   A   16          bp U G                      >>   0.9016
+A   16   A   17          bp G G                      >>   0.9775
+A   17   A   18          bp G A                      >>   0.9614
+A   18   A   19          bp A G                      >>   0.9864
+A   19   A   20          bp G A                      >>   0.9386
+A   20   A   21          bp A A                      >>   0.9506
+A   21   A   22          bp A U                      >>   0.9736
+A   22   A   23          bp U G                      >>   0.9535
+A   23   A   24          bp G A                      >>   0.9657
+A   24   A   25          bp A C                      >>   0.9309
+A   25   A   26          bp C G                      >>   0.8821
+A   26   A   27          bp G U                      >>   0.9824
+A   27   A   28          bp U A                      >>   0.9029
+A   28   A   29          bp A G                      >>   0.9890
+A   29   A   30          bp G C                      >>   0.9847
+A   30   A   31          bp C A                      >>   0.8895
+A   31   A   32          bp A U                      >>   0.9771
+A   32   A   33          bp U G                      >>   0.9333
+A   33   A   34          bp G C                      >>   0.9516
+

@@ -1,0 +1,2061 @@
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8ane_r/8ane_r_3drna.pdb
+Correct DeepFoldRNA files!
+AUUGAAGCAAGCUGUCCCUGAUGGUCGUCAUCUACCUGCCUGGAGUCAUCCGCGGCAUUUAGCCGC
+AUUGAAGCAAGCUGUCCCUGAUGGUCGUCAUCUACCUGCCUGGAGUCAUCCGCGGCAUUUAGCCGC
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '47': 47, '48': 48, '49': 49, '50': 50, '51': 51, '52': 52, '53': 53, '54': 54, '55': 55, '56': 56, '57': 57, '58': 58, '59': 59, '60': 60, '61': 61, '62': 62, '63': 63, '64': 64, '65': 65, '66': 66}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 47, ' ') (' ', 47, ' ')
+(' ', 48, ' ') (' ', 48, ' ')
+(' ', 49, ' ') (' ', 49, ' ')
+(' ', 50, ' ') (' ', 50, ' ')
+(' ', 51, ' ') (' ', 51, ' ')
+(' ', 52, ' ') (' ', 52, ' ')
+(' ', 53, ' ') (' ', 53, ' ')
+(' ', 54, ' ') (' ', 54, ' ')
+(' ', 55, ' ') (' ', 55, ' ')
+(' ', 56, ' ') (' ', 56, ' ')
+(' ', 57, ' ') (' ', 57, ' ')
+(' ', 58, ' ') (' ', 58, ' ')
+(' ', 59, ' ') (' ', 59, ' ')
+(' ', 60, ' ') (' ', 60, ' ')
+(' ', 61, ' ') (' ', 61, ' ')
+(' ', 62, ' ') (' ', 62, ' ')
+(' ', 63, ' ') (' ', 63, ' ')
+(' ', 64, ' ') (' ', 64, ' ')
+(' ', 65, ' ') (' ', 65, ' ')
+(' ', 66, ' ') (' ', 66, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8ane_r/8ane_r_native.pdb
+extracted_pdb/8ane_r
+
+df is missing in 8ane_r.
+8ane_r/8ane_r_drfold.pdb
+Calculating RMSD for A:1-66 for 8ane_r/processing/8ane_r_drfold_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+19.71
+Calculating NATIVE_CONTACT_FRACTON for A:1-66 for 8ane_r/processing/8ane_r_drfold_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+0.6
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-66 for extracted_pdb/8ane_r/8ane_r_drfold_cut.pdb against extracted_pdb/8ane_r/8ane_r_native_cut.pdb 
+0.6
+8ane_r/8ane_r_rf.pdb
+Calculating RMSD for A:1-66 for 8ane_r/processing/8ane_r_rf_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+36.87
+Calculating NATIVE_CONTACT_FRACTON for A:1-66 for 8ane_r/processing/8ane_r_rf_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-66 for extracted_pdb/8ane_r/8ane_r_rf_cut.pdb against extracted_pdb/8ane_r/8ane_r_native_cut.pdb 
+0.0
+8ane_r/8ane_r_rhofold.pdb
+Calculating RMSD for A:1-66 for 8ane_r/processing/8ane_r_rhofold_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+36.22
+Calculating NATIVE_CONTACT_FRACTON for A:1-66 for 8ane_r/processing/8ane_r_rhofold_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+0.5333333333333333
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-66 for extracted_pdb/8ane_r/8ane_r_rhofold_cut.pdb against extracted_pdb/8ane_r/8ane_r_native_cut.pdb 
+0.5333333333333333
+8ane_r/8ane_r_rnac.pdb
+Calculating RMSD for A:1-66 for 8ane_r/processing/8ane_r_rnac_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+42.6
+Calculating NATIVE_CONTACT_FRACTON for A:1-66 for 8ane_r/processing/8ane_r_rnac_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+0.13333333333333333
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-66 for extracted_pdb/8ane_r/8ane_r_rnac_cut.pdb against extracted_pdb/8ane_r/8ane_r_native_cut.pdb 
+0.13333333333333333
+8ane_r/8ane_r_trr.pdb
+Calculating RMSD for A:1-66 for 8ane_r/processing/8ane_r_trr_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+55.99
+Calculating NATIVE_CONTACT_FRACTON for A:1-66 for 8ane_r/processing/8ane_r_trr_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+0.4666666666666667
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-66 for extracted_pdb/8ane_r/8ane_r_trr_cut.pdb against extracted_pdb/8ane_r/8ane_r_native_cut.pdb 
+0.4666666666666667
+8ane_r/8ane_r_3drna.pdb
+Calculating RMSD for A:1-66 for 8ane_r/processing/8ane_r_3drna_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+41.03
+Calculating NATIVE_CONTACT_FRACTON for A:1-66 for 8ane_r/processing/8ane_r_3drna_rpr.pdb against 8ane_r/processing/8ane_r_native_rpr.pdb 
+0.5333333333333333
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-66 for extracted_pdb/8ane_r/8ane_r_3drna_cut.pdb against extracted_pdb/8ane_r/8ane_r_native_cut.pdb 
+0.5333333333333333
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8d1v_j/8d1v_j_3drna.pdb
+Correct DeepFoldRNA files!
+UUGAUGUCACGGAACACGUUCUUUGAACCAAGCU
+UUGAUGUCACGGAACACGUUCUUUGAACCAAGCU
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8d1v_j/8d1v_j_native.pdb
+extracted_pdb/8d1v_j
+
+df is missing in 8d1v_j.
+8d1v_j/8d1v_j_drfold.pdb
+Calculating RMSD for A:1-34 for 8d1v_j/processing/8d1v_j_drfold_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+13.93
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d1v_j/processing/8d1v_j_drfold_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+0.13333333333333333
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d1v_j/8d1v_j_drfold_cut.pdb against extracted_pdb/8d1v_j/8d1v_j_native_cut.pdb 
+0.13333333333333333
+8d1v_j/8d1v_j_rf.pdb
+Calculating RMSD for A:1-34 for 8d1v_j/processing/8d1v_j_rf_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+16.39
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d1v_j/processing/8d1v_j_rf_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+0.26666666666666666
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d1v_j/8d1v_j_rf_cut.pdb against extracted_pdb/8d1v_j/8d1v_j_native_cut.pdb 
+0.26666666666666666
+8d1v_j/8d1v_j_rhofold.pdb
+Calculating RMSD for A:1-34 for 8d1v_j/processing/8d1v_j_rhofold_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+34.44
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d1v_j/processing/8d1v_j_rhofold_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d1v_j/8d1v_j_rhofold_cut.pdb against extracted_pdb/8d1v_j/8d1v_j_native_cut.pdb 
+0.0
+8d1v_j/8d1v_j_rnac.pdb
+Calculating RMSD for A:1-34 for 8d1v_j/processing/8d1v_j_rnac_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+34.16
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d1v_j/processing/8d1v_j_rnac_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+0.06666666666666667
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d1v_j/8d1v_j_rnac_cut.pdb against extracted_pdb/8d1v_j/8d1v_j_native_cut.pdb 
+0.06666666666666667
+8d1v_j/8d1v_j_trr.pdb
+Calculating RMSD for A:1-34 for 8d1v_j/processing/8d1v_j_trr_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+34.65
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d1v_j/processing/8d1v_j_trr_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d1v_j/8d1v_j_trr_cut.pdb against extracted_pdb/8d1v_j/8d1v_j_native_cut.pdb 
+0.0
+8d1v_j/8d1v_j_3drna.pdb
+Calculating RMSD for A:1-34 for 8d1v_j/processing/8d1v_j_3drna_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+34.29
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d1v_j/processing/8d1v_j_3drna_rpr.pdb against 8d1v_j/processing/8d1v_j_native_rpr.pdb 
+0.13333333333333333
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d1v_j/8d1v_j_3drna_cut.pdb against extracted_pdb/8d1v_j/8d1v_j_native_cut.pdb 
+0.13333333333333333
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8d29_r/8d29_r_3drna.pdb
+Correct DeepFoldRNA files!
+GGCGAUACCAGCGAAACACGCCCUUGGCAGCGUC
+GGCGAUACCAGCGAAACACGCCCUUGGCAGCGUC
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8d29_r/8d29_r_native.pdb
+extracted_pdb/8d29_r
+
+df is missing in 8d29_r.
+8d29_r/8d29_r_drfold.pdb
+Calculating RMSD for A:1-34 for 8d29_r/processing/8d29_r_drfold_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+5.98
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d29_r/processing/8d29_r_drfold_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+0.868421052631579
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d29_r/8d29_r_drfold_cut.pdb against extracted_pdb/8d29_r/8d29_r_native_cut.pdb 
+0.868421052631579
+8d29_r/8d29_r_rf.pdb
+Calculating RMSD for A:1-34 for 8d29_r/processing/8d29_r_rf_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+6.68
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d29_r/processing/8d29_r_rf_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+0.7631578947368421
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d29_r/8d29_r_rf_cut.pdb against extracted_pdb/8d29_r/8d29_r_native_cut.pdb 
+0.7631578947368421
+8d29_r/8d29_r_rhofold.pdb
+Calculating RMSD for A:1-34 for 8d29_r/processing/8d29_r_rhofold_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+6.01
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d29_r/processing/8d29_r_rhofold_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+0.8157894736842105
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d29_r/8d29_r_rhofold_cut.pdb against extracted_pdb/8d29_r/8d29_r_native_cut.pdb 
+0.8157894736842105
+8d29_r/8d29_r_rnac.pdb
+Calculating RMSD for A:1-34 for 8d29_r/processing/8d29_r_rnac_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+7.04
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d29_r/processing/8d29_r_rnac_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+0.7894736842105263
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d29_r/8d29_r_rnac_cut.pdb against extracted_pdb/8d29_r/8d29_r_native_cut.pdb 
+0.7894736842105263
+8d29_r/8d29_r_trr.pdb
+Calculating RMSD for A:1-34 for 8d29_r/processing/8d29_r_trr_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+3.91
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d29_r/processing/8d29_r_trr_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+0.868421052631579
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d29_r/8d29_r_trr_cut.pdb against extracted_pdb/8d29_r/8d29_r_native_cut.pdb 
+0.868421052631579
+8d29_r/8d29_r_3drna.pdb
+Calculating RMSD for A:1-34 for 8d29_r/processing/8d29_r_3drna_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+6.13
+Calculating NATIVE_CONTACT_FRACTON for A:1-34 for 8d29_r/processing/8d29_r_3drna_rpr.pdb against 8d29_r/processing/8d29_r_native_rpr.pdb 
+0.868421052631579
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-34 for extracted_pdb/8d29_r/8d29_r_3drna_cut.pdb against extracted_pdb/8d29_r/8d29_r_native_cut.pdb 
+0.868421052631579
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8d4a_b/8d4a_b_3drna.pdb
+Correct DeepFoldRNA files!
+AUUUCUACUAUUGUAGAUUGGAGCAACACCUGAAGAAGGCU
+AUUUCUACUAUUGUAGAUUGGAGCAACACCUGAAGAAGGCU
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8d4a_b/8d4a_b_native.pdb
+extracted_pdb/8d4a_b
+
+df is missing in 8d4a_b.
+8d4a_b/8d4a_b_drfold.pdb
+Calculating RMSD for A:1-41 for 8d4a_b/processing/8d4a_b_drfold_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+3.77
+Calculating NATIVE_CONTACT_FRACTON for A:1-41 for 8d4a_b/processing/8d4a_b_drfold_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+0.7027027027027027
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-41 for extracted_pdb/8d4a_b/8d4a_b_drfold_cut.pdb against extracted_pdb/8d4a_b/8d4a_b_native_cut.pdb 
+0.7027027027027027
+8d4a_b/8d4a_b_rf.pdb
+Calculating RMSD for A:1-41 for 8d4a_b/processing/8d4a_b_rf_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+15.9
+Calculating NATIVE_CONTACT_FRACTON for A:1-41 for 8d4a_b/processing/8d4a_b_rf_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+0.8108108108108109
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-41 for extracted_pdb/8d4a_b/8d4a_b_rf_cut.pdb against extracted_pdb/8d4a_b/8d4a_b_native_cut.pdb 
+0.8108108108108109
+8d4a_b/8d4a_b_rhofold.pdb
+Calculating RMSD for A:1-41 for 8d4a_b/processing/8d4a_b_rhofold_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+5.98
+Calculating NATIVE_CONTACT_FRACTON for A:1-41 for 8d4a_b/processing/8d4a_b_rhofold_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+0.7027027027027027
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-41 for extracted_pdb/8d4a_b/8d4a_b_rhofold_cut.pdb against extracted_pdb/8d4a_b/8d4a_b_native_cut.pdb 
+0.7027027027027027
+8d4a_b/8d4a_b_rnac.pdb
+Calculating RMSD for A:1-41 for 8d4a_b/processing/8d4a_b_rnac_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+15.56
+Calculating NATIVE_CONTACT_FRACTON for A:1-41 for 8d4a_b/processing/8d4a_b_rnac_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+0.5405405405405406
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-41 for extracted_pdb/8d4a_b/8d4a_b_rnac_cut.pdb against extracted_pdb/8d4a_b/8d4a_b_native_cut.pdb 
+0.5405405405405406
+8d4a_b/8d4a_b_trr.pdb
+Calculating RMSD for A:1-41 for 8d4a_b/processing/8d4a_b_trr_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+1.98
+Calculating NATIVE_CONTACT_FRACTON for A:1-41 for 8d4a_b/processing/8d4a_b_trr_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+0.8378378378378378
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-41 for extracted_pdb/8d4a_b/8d4a_b_trr_cut.pdb against extracted_pdb/8d4a_b/8d4a_b_native_cut.pdb 
+0.8378378378378378
+8d4a_b/8d4a_b_3drna.pdb
+Calculating RMSD for A:1-41 for 8d4a_b/processing/8d4a_b_3drna_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+18.82
+Calculating NATIVE_CONTACT_FRACTON for A:1-41 for 8d4a_b/processing/8d4a_b_3drna_rpr.pdb against 8d4a_b/processing/8d4a_b_native_rpr.pdb 
+0.35135135135135137
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-41 for extracted_pdb/8d4a_b/8d4a_b_3drna_cut.pdb against extracted_pdb/8d4a_b/8d4a_b_native_cut.pdb 
+0.35135135135135137
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8do6_j/8do6_j_3drna.pdb
+Correct DeepFoldRNA files!
+GAUGAUUUAUAUACUUCGGCAUACGU
+GAUGAUUUAUAUACUUCGGCAUACGU
+The sequences are the same!
+{'10': 1, '11': 2, '12': 3, '13': 4, '14': 5, '15': 6, '16': 7, '17': 8, '18': 9, '19': 10, '20': 11, '21': 12, '22': 13, '23': 14, '24': 15, '25': 16, '26': 17, '27': 18, '28': 19, '29': 20, '30': 21, '31': 22, '32': 23, '33': 24, '34': 25, '35': 26}
+(' ', 10, ' ') (' ', 1, ' ')
+(' ', 11, ' ') (' ', 2, ' ')
+(' ', 12, ' ') (' ', 3, ' ')
+(' ', 13, ' ') (' ', 4, ' ')
+(' ', 14, ' ') (' ', 5, ' ')
+(' ', 15, ' ') (' ', 6, ' ')
+(' ', 16, ' ') (' ', 7, ' ')
+(' ', 17, ' ') (' ', 8, ' ')
+(' ', 18, ' ') (' ', 9, ' ')
+(' ', 19, ' ') (' ', 10, ' ')
+(' ', 20, ' ') (' ', 11, ' ')
+(' ', 21, ' ') (' ', 12, ' ')
+(' ', 22, ' ') (' ', 13, ' ')
+(' ', 23, ' ') (' ', 14, ' ')
+(' ', 24, ' ') (' ', 15, ' ')
+(' ', 25, ' ') (' ', 16, ' ')
+(' ', 26, ' ') (' ', 17, ' ')
+(' ', 27, ' ') (' ', 18, ' ')
+(' ', 28, ' ') (' ', 19, ' ')
+(' ', 29, ' ') (' ', 20, ' ')
+(' ', 30, ' ') (' ', 21, ' ')
+(' ', 31, ' ') (' ', 22, ' ')
+(' ', 32, ' ') (' ', 23, ' ')
+(' ', 33, ' ') (' ', 24, ' ')
+(' ', 34, ' ') (' ', 25, ' ')
+(' ', 35, ' ') (' ', 26, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8do6_j/8do6_j_native.pdb
+extracted_pdb/8do6_j
+
+df is missing in 8do6_j.
+8do6_j/8do6_j_drfold.pdb
+Calculating RMSD for A:1-26 for 8do6_j/processing/8do6_j_drfold_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+11.97
+Calculating NATIVE_CONTACT_FRACTON for A:1-26 for 8do6_j/processing/8do6_j_drfold_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-26 for extracted_pdb/8do6_j/8do6_j_drfold_cut.pdb against extracted_pdb/8do6_j/8do6_j_native_cut.pdb 
+0.0
+8do6_j/8do6_j_rf.pdb
+Calculating RMSD for A:1-26 for 8do6_j/processing/8do6_j_rf_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+26.96
+Calculating NATIVE_CONTACT_FRACTON for A:1-26 for 8do6_j/processing/8do6_j_rf_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-26 for extracted_pdb/8do6_j/8do6_j_rf_cut.pdb against extracted_pdb/8do6_j/8do6_j_native_cut.pdb 
+0.0
+8do6_j/8do6_j_rhofold.pdb
+Calculating RMSD for A:1-26 for 8do6_j/processing/8do6_j_rhofold_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+13.73
+Calculating NATIVE_CONTACT_FRACTON for A:1-26 for 8do6_j/processing/8do6_j_rhofold_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-26 for extracted_pdb/8do6_j/8do6_j_rhofold_cut.pdb against extracted_pdb/8do6_j/8do6_j_native_cut.pdb 
+0.0
+8do6_j/8do6_j_rnac.pdb
+Calculating RMSD for A:1-26 for 8do6_j/processing/8do6_j_rnac_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+23.01
+Calculating NATIVE_CONTACT_FRACTON for A:1-26 for 8do6_j/processing/8do6_j_rnac_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-26 for extracted_pdb/8do6_j/8do6_j_rnac_cut.pdb against extracted_pdb/8do6_j/8do6_j_native_cut.pdb 
+0.0
+8do6_j/8do6_j_trr.pdb
+Calculating RMSD for A:1-26 for 8do6_j/processing/8do6_j_trr_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+13.09
+Calculating NATIVE_CONTACT_FRACTON for A:1-26 for 8do6_j/processing/8do6_j_trr_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-26 for extracted_pdb/8do6_j/8do6_j_trr_cut.pdb against extracted_pdb/8do6_j/8do6_j_native_cut.pdb 
+0.0
+8do6_j/8do6_j_3drna.pdb
+Calculating RMSD for A:1-26 for 8do6_j/processing/8do6_j_3drna_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+22.15
+Calculating NATIVE_CONTACT_FRACTON for A:1-26 for 8do6_j/processing/8do6_j_3drna_rpr.pdb against 8do6_j/processing/8do6_j_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-26 for extracted_pdb/8do6_j/8do6_j_3drna_cut.pdb against extracted_pdb/8do6_j/8do6_j_native_cut.pdb 
+0.0
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8e0f_d/8e0f_d_3drna.pdb
+Correct DeepFoldRNA files!
+CGUAGCUAUCAGAGCCCCCCGGCAUCGCGAGC
+CGUAGCUAUCAGAGCCCCCCGGCAUCGCGAGC
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8e0f_d/8e0f_d_native.pdb
+extracted_pdb/8e0f_d
+
+df is missing in 8e0f_d.
+8e0f_d/8e0f_d_drfold.pdb
+Calculating RMSD for A:1-32 for 8e0f_d/processing/8e0f_d_drfold_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+2.14
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8e0f_d/processing/8e0f_d_drfold_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8e0f_d/8e0f_d_drfold_cut.pdb against extracted_pdb/8e0f_d/8e0f_d_native_cut.pdb 
+0.0
+8e0f_d/8e0f_d_rf.pdb
+Calculating RMSD for A:1-32 for 8e0f_d/processing/8e0f_d_rf_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+11.68
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8e0f_d/processing/8e0f_d_rf_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8e0f_d/8e0f_d_rf_cut.pdb against extracted_pdb/8e0f_d/8e0f_d_native_cut.pdb 
+0.0
+8e0f_d/8e0f_d_rhofold.pdb
+Calculating RMSD for A:1-32 for 8e0f_d/processing/8e0f_d_rhofold_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+3.05
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8e0f_d/processing/8e0f_d_rhofold_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8e0f_d/8e0f_d_rhofold_cut.pdb against extracted_pdb/8e0f_d/8e0f_d_native_cut.pdb 
+0.0
+8e0f_d/8e0f_d_rnac.pdb
+Calculating RMSD for A:1-32 for 8e0f_d/processing/8e0f_d_rnac_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+27.44
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8e0f_d/processing/8e0f_d_rnac_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8e0f_d/8e0f_d_rnac_cut.pdb against extracted_pdb/8e0f_d/8e0f_d_native_cut.pdb 
+0.0
+8e0f_d/8e0f_d_trr.pdb
+Calculating RMSD for A:1-32 for 8e0f_d/processing/8e0f_d_trr_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+2.37
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8e0f_d/processing/8e0f_d_trr_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8e0f_d/8e0f_d_trr_cut.pdb against extracted_pdb/8e0f_d/8e0f_d_native_cut.pdb 
+0.0
+8e0f_d/8e0f_d_3drna.pdb
+Calculating RMSD for A:1-32 for 8e0f_d/processing/8e0f_d_3drna_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+27.75
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8e0f_d/processing/8e0f_d_3drna_rpr.pdb against 8e0f_d/processing/8e0f_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8e0f_d/8e0f_d_3drna_cut.pdb against extracted_pdb/8e0f_d/8e0f_d_native_cut.pdb 
+0.0
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8ewg_b/8ewg_b_3drna.pdb
+Correct DeepFoldRNA files!
+GGGUCACAACUCCCAUGUAGGCGGAGACUGCAACCCGAAGGUGUGACUUCAUGCCA
+GGGUCACAACUCCCAUGUAGGCGGAGACUGCAACCCGAAGGUGUGACUUCAUGCCA
+The sequences are the same!
+{'3': 1, '4': 2, '5': 3, '6': 4, '7': 5, '8': 6, '9': 7, '10': 8, '11': 9, '12': 10, '13': 11, '14': 12, '15': 13, '16': 14, '17': 15, '18': 16, '19': 17, '20': 18, '21': 19, '22': 20, '23': 21, '24': 22, '25': 23, '26': 24, '27': 25, '28': 26, '29': 27, '30': 28, '31': 29, '32': 30, '33': 31, '34': 32, '35': 33, '36': 34, '37': 35, '38': 36, '39': 37, '40': 38, '41': 39, '42': 40, '43': 41, '44': 42, '45': 43, '46': 44, '47': 45, '48': 46, '49': 47, '50': 48, '51': 49, '52': 50, '54': 51, '55': 52, '56': 53, '57': 54, '58': 55, '59': 56}
+(' ', 3, ' ') (' ', 1, ' ')
+(' ', 4, ' ') (' ', 2, ' ')
+(' ', 5, ' ') (' ', 3, ' ')
+(' ', 6, ' ') (' ', 4, ' ')
+(' ', 7, ' ') (' ', 5, ' ')
+(' ', 8, ' ') (' ', 6, ' ')
+(' ', 9, ' ') (' ', 7, ' ')
+(' ', 10, ' ') (' ', 8, ' ')
+(' ', 11, ' ') (' ', 9, ' ')
+(' ', 12, ' ') (' ', 10, ' ')
+(' ', 13, ' ') (' ', 11, ' ')
+(' ', 14, ' ') (' ', 12, ' ')
+(' ', 15, ' ') (' ', 13, ' ')
+(' ', 16, ' ') (' ', 14, ' ')
+(' ', 17, ' ') (' ', 15, ' ')
+(' ', 18, ' ') (' ', 16, ' ')
+(' ', 19, ' ') (' ', 17, ' ')
+(' ', 20, ' ') (' ', 18, ' ')
+(' ', 21, ' ') (' ', 19, ' ')
+(' ', 22, ' ') (' ', 20, ' ')
+(' ', 23, ' ') (' ', 21, ' ')
+(' ', 24, ' ') (' ', 22, ' ')
+(' ', 25, ' ') (' ', 23, ' ')
+(' ', 26, ' ') (' ', 24, ' ')
+(' ', 27, ' ') (' ', 25, ' ')
+(' ', 28, ' ') (' ', 26, ' ')
+(' ', 29, ' ') (' ', 27, ' ')
+(' ', 30, ' ') (' ', 28, ' ')
+(' ', 31, ' ') (' ', 29, ' ')
+(' ', 32, ' ') (' ', 30, ' ')
+(' ', 33, ' ') (' ', 31, ' ')
+(' ', 34, ' ') (' ', 32, ' ')
+(' ', 35, ' ') (' ', 33, ' ')
+(' ', 36, ' ') (' ', 34, ' ')
+(' ', 37, ' ') (' ', 35, ' ')
+(' ', 38, ' ') (' ', 36, ' ')
+(' ', 39, ' ') (' ', 37, ' ')
+(' ', 40, ' ') (' ', 38, ' ')
+(' ', 41, ' ') (' ', 39, ' ')
+(' ', 42, ' ') (' ', 40, ' ')
+(' ', 43, ' ') (' ', 41, ' ')
+(' ', 44, ' ') (' ', 42, ' ')
+(' ', 45, ' ') (' ', 43, ' ')
+(' ', 46, ' ') (' ', 44, ' ')
+(' ', 47, ' ') (' ', 45, ' ')
+(' ', 48, ' ') (' ', 46, ' ')
+(' ', 49, ' ') (' ', 47, ' ')
+(' ', 50, ' ') (' ', 48, ' ')
+(' ', 51, ' ') (' ', 49, ' ')
+(' ', 52, ' ') (' ', 50, ' ')
+(' ', 54, ' ') (' ', 51, ' ')
+(' ', 55, ' ') (' ', 52, ' ')
+(' ', 56, ' ') (' ', 53, ' ')
+(' ', 57, ' ') (' ', 54, ' ')
+(' ', 58, ' ') (' ', 55, ' ')
+(' ', 59, ' ') (' ', 56, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8ewg_b/8ewg_b_native.pdb
+extracted_pdb/8ewg_b
+
+df is missing in 8ewg_b.
+8ewg_b/8ewg_b_drfold.pdb
+Calculating RMSD for A:1-56 for 8ewg_b/processing/8ewg_b_drfold_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+21.59
+Calculating NATIVE_CONTACT_FRACTON for A:1-56 for 8ewg_b/processing/8ewg_b_drfold_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+0.375
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-56 for extracted_pdb/8ewg_b/8ewg_b_drfold_cut.pdb against extracted_pdb/8ewg_b/8ewg_b_native_cut.pdb 
+0.375
+8ewg_b/8ewg_b_rf.pdb
+Calculating RMSD for A:1-56 for 8ewg_b/processing/8ewg_b_rf_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+22.81
+Calculating NATIVE_CONTACT_FRACTON for A:1-56 for 8ewg_b/processing/8ewg_b_rf_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+0.08928571428571429
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-56 for extracted_pdb/8ewg_b/8ewg_b_rf_cut.pdb against extracted_pdb/8ewg_b/8ewg_b_native_cut.pdb 
+0.08928571428571429
+8ewg_b/8ewg_b_rhofold.pdb
+Calculating RMSD for A:1-56 for 8ewg_b/processing/8ewg_b_rhofold_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+18.95
+Calculating NATIVE_CONTACT_FRACTON for A:1-56 for 8ewg_b/processing/8ewg_b_rhofold_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+0.4107142857142857
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-56 for extracted_pdb/8ewg_b/8ewg_b_rhofold_cut.pdb against extracted_pdb/8ewg_b/8ewg_b_native_cut.pdb 
+0.4107142857142857
+8ewg_b/8ewg_b_rnac.pdb
+Calculating RMSD for A:1-56 for 8ewg_b/processing/8ewg_b_rnac_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+16.19
+Calculating NATIVE_CONTACT_FRACTON for A:1-56 for 8ewg_b/processing/8ewg_b_rnac_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+0.30357142857142855
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-56 for extracted_pdb/8ewg_b/8ewg_b_rnac_cut.pdb against extracted_pdb/8ewg_b/8ewg_b_native_cut.pdb 
+0.30357142857142855
+8ewg_b/8ewg_b_trr.pdb
+Calculating RMSD for A:1-56 for 8ewg_b/processing/8ewg_b_trr_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+20.62
+Calculating NATIVE_CONTACT_FRACTON for A:1-56 for 8ewg_b/processing/8ewg_b_trr_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+0.39285714285714285
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-56 for extracted_pdb/8ewg_b/8ewg_b_trr_cut.pdb against extracted_pdb/8ewg_b/8ewg_b_native_cut.pdb 
+0.39285714285714285
+8ewg_b/8ewg_b_3drna.pdb
+Calculating RMSD for A:1-56 for 8ewg_b/processing/8ewg_b_3drna_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+21.02
+Calculating NATIVE_CONTACT_FRACTON for A:1-56 for 8ewg_b/processing/8ewg_b_3drna_rpr.pdb against 8ewg_b/processing/8ewg_b_native_rpr.pdb 
+0.32142857142857145
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-56 for extracted_pdb/8ewg_b/8ewg_b_3drna_cut.pdb against extracted_pdb/8ewg_b/8ewg_b_native_cut.pdb 
+0.32142857142857145
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8f0n_b/8f0n_b_3drna.pdb
+Correct DeepFoldRNA files!
+GCGCCGGUUAGGCAGUGGUGGGUGGUGUGGAGGAGUAGCUGUCCGGCGC
+GCGCCGGUUAGGCAGUGGUGGGUGGUGUGGAGGAGUAGCUGUCCGGCGC
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '47': 47, '48': 48, '49': 49}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 47, ' ') (' ', 47, ' ')
+(' ', 48, ' ') (' ', 48, ' ')
+(' ', 49, ' ') (' ', 49, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8f0n_b/8f0n_b_native.pdb
+extracted_pdb/8f0n_b
+
+df is missing in 8f0n_b.
+8f0n_b/8f0n_b_drfold.pdb
+Calculating RMSD for A:1-49 for 8f0n_b/processing/8f0n_b_drfold_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+10.59
+Calculating NATIVE_CONTACT_FRACTON for A:1-49 for 8f0n_b/processing/8f0n_b_drfold_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+0.6633663366336634
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-49 for extracted_pdb/8f0n_b/8f0n_b_drfold_cut.pdb against extracted_pdb/8f0n_b/8f0n_b_native_cut.pdb 
+0.6633663366336634
+8f0n_b/8f0n_b_rf.pdb
+Calculating RMSD for A:1-49 for 8f0n_b/processing/8f0n_b_rf_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+10.81
+Calculating NATIVE_CONTACT_FRACTON for A:1-49 for 8f0n_b/processing/8f0n_b_rf_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+0.22772277227722773
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-49 for extracted_pdb/8f0n_b/8f0n_b_rf_cut.pdb against extracted_pdb/8f0n_b/8f0n_b_native_cut.pdb 
+0.22772277227722773
+8f0n_b/8f0n_b_rhofold.pdb
+Calculating RMSD for A:1-49 for 8f0n_b/processing/8f0n_b_rhofold_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+8.59
+Calculating NATIVE_CONTACT_FRACTON for A:1-49 for 8f0n_b/processing/8f0n_b_rhofold_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+0.4158415841584158
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-49 for extracted_pdb/8f0n_b/8f0n_b_rhofold_cut.pdb against extracted_pdb/8f0n_b/8f0n_b_native_cut.pdb 
+0.4158415841584158
+8f0n_b/8f0n_b_rnac.pdb
+Calculating RMSD for A:1-49 for 8f0n_b/processing/8f0n_b_rnac_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+12.2
+Calculating NATIVE_CONTACT_FRACTON for A:1-49 for 8f0n_b/processing/8f0n_b_rnac_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+0.4158415841584158
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-49 for extracted_pdb/8f0n_b/8f0n_b_rnac_cut.pdb against extracted_pdb/8f0n_b/8f0n_b_native_cut.pdb 
+0.4158415841584158
+8f0n_b/8f0n_b_trr.pdb
+Calculating RMSD for A:1-49 for 8f0n_b/processing/8f0n_b_trr_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+3.22
+Calculating NATIVE_CONTACT_FRACTON for A:1-49 for 8f0n_b/processing/8f0n_b_trr_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+0.7029702970297029
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-49 for extracted_pdb/8f0n_b/8f0n_b_trr_cut.pdb against extracted_pdb/8f0n_b/8f0n_b_native_cut.pdb 
+0.7029702970297029
+8f0n_b/8f0n_b_3drna.pdb
+Calculating RMSD for A:1-49 for 8f0n_b/processing/8f0n_b_3drna_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+13.77
+Calculating NATIVE_CONTACT_FRACTON for A:1-49 for 8f0n_b/processing/8f0n_b_3drna_rpr.pdb against 8f0n_b/processing/8f0n_b_native_rpr.pdb 
+0.39603960396039606
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-49 for extracted_pdb/8f0n_b/8f0n_b_3drna_cut.pdb against extracted_pdb/8f0n_b/8f0n_b_native_cut.pdb 
+0.39603960396039606
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8ff5_m/8ff5_m_3drna.pdb
+Correct DeepFoldRNA files!
+UUGCUCAAGAGAAGUCAUUUAAUAAGGCCACUGUUAAACGUAGGUGAGUCGUGGCUUUAUGCC
+UUGCUCAAGAGAAGUCAUUUAAUAAGGCCACUGUUAAACGUAGGUGAGUCGUGGCUUUAUGCC
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '47': 47, '48': 48, '49': 49, '50': 50, '51': 51, '52': 52, '53': 53, '54': 54, '55': 55, '56': 56, '57': 57, '58': 58, '59': 59, '60': 60, '61': 61, '62': 62, '63': 63}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 47, ' ') (' ', 47, ' ')
+(' ', 48, ' ') (' ', 48, ' ')
+(' ', 49, ' ') (' ', 49, ' ')
+(' ', 50, ' ') (' ', 50, ' ')
+(' ', 51, ' ') (' ', 51, ' ')
+(' ', 52, ' ') (' ', 52, ' ')
+(' ', 53, ' ') (' ', 53, ' ')
+(' ', 54, ' ') (' ', 54, ' ')
+(' ', 55, ' ') (' ', 55, ' ')
+(' ', 56, ' ') (' ', 56, ' ')
+(' ', 57, ' ') (' ', 57, ' ')
+(' ', 58, ' ') (' ', 58, ' ')
+(' ', 59, ' ') (' ', 59, ' ')
+(' ', 60, ' ') (' ', 60, ' ')
+(' ', 61, ' ') (' ', 61, ' ')
+(' ', 62, ' ') (' ', 62, ' ')
+(' ', 63, ' ') (' ', 63, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8ff5_m/8ff5_m_native.pdb
+extracted_pdb/8ff5_m
+
+df is missing in 8ff5_m.
+8ff5_m/8ff5_m_drfold.pdb
+Calculating RMSD for A:1-63 for 8ff5_m/processing/8ff5_m_drfold_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+50.05
+Calculating NATIVE_CONTACT_FRACTON for A:1-63 for 8ff5_m/processing/8ff5_m_drfold_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+0.17647058823529413
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-63 for extracted_pdb/8ff5_m/8ff5_m_drfold_cut.pdb against extracted_pdb/8ff5_m/8ff5_m_native_cut.pdb 
+0.17647058823529413
+8ff5_m/8ff5_m_rf.pdb
+Calculating RMSD for A:1-63 for 8ff5_m/processing/8ff5_m_rf_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+50.2
+Calculating NATIVE_CONTACT_FRACTON for A:1-63 for 8ff5_m/processing/8ff5_m_rf_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+0.08823529411764706
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-63 for extracted_pdb/8ff5_m/8ff5_m_rf_cut.pdb against extracted_pdb/8ff5_m/8ff5_m_native_cut.pdb 
+0.08823529411764706
+8ff5_m/8ff5_m_rhofold.pdb
+Calculating RMSD for A:1-63 for 8ff5_m/processing/8ff5_m_rhofold_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+55.58
+Calculating NATIVE_CONTACT_FRACTON for A:1-63 for 8ff5_m/processing/8ff5_m_rhofold_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+0.20588235294117646
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-63 for extracted_pdb/8ff5_m/8ff5_m_rhofold_cut.pdb against extracted_pdb/8ff5_m/8ff5_m_native_cut.pdb 
+0.20588235294117646
+8ff5_m/8ff5_m_rnac.pdb
+Calculating RMSD for A:1-63 for 8ff5_m/processing/8ff5_m_rnac_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+47.58
+Calculating NATIVE_CONTACT_FRACTON for A:1-63 for 8ff5_m/processing/8ff5_m_rnac_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+0.08823529411764706
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-63 for extracted_pdb/8ff5_m/8ff5_m_rnac_cut.pdb against extracted_pdb/8ff5_m/8ff5_m_native_cut.pdb 
+0.08823529411764706
+8ff5_m/8ff5_m_trr.pdb
+Calculating RMSD for A:1-63 for 8ff5_m/processing/8ff5_m_trr_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+25.64
+Calculating NATIVE_CONTACT_FRACTON for A:1-63 for 8ff5_m/processing/8ff5_m_trr_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+0.3235294117647059
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-63 for extracted_pdb/8ff5_m/8ff5_m_trr_cut.pdb against extracted_pdb/8ff5_m/8ff5_m_native_cut.pdb 
+0.3235294117647059
+8ff5_m/8ff5_m_3drna.pdb
+Calculating RMSD for A:1-63 for 8ff5_m/processing/8ff5_m_3drna_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+53.31
+Calculating NATIVE_CONTACT_FRACTON for A:1-63 for 8ff5_m/processing/8ff5_m_3drna_rpr.pdb against 8ff5_m/processing/8ff5_m_native_rpr.pdb 
+0.11764705882352941
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-63 for extracted_pdb/8ff5_m/8ff5_m_3drna_cut.pdb against extracted_pdb/8ff5_m/8ff5_m_native_cut.pdb 
+0.11764705882352941
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8ffy_c/8ffy_c_3drna.pdb
+Correct DeepFoldRNA files!
+GAAAAAGUCAUGGAGGCCAUGGGGUCCGGGCUUUGGGGGGUUCGAUUCCUUCCUUUUUUGC
+GAAAAAGUCAUGGAGGCCAUGGGGUCCGGGCUUUGGGGGGUUCGAUUCCUUCCUUUUUUGC
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '37': 28, '38': 29, '39': 30, '40': 31, '41': 32, '42': 33, '43': 34, '44': 35, '45': 36, '46': 37, '47': 38, '48': 39, '49': 40, '50': 41, '51': 42, '52': 43, '53': 44, '54': 45, '55': 46, '56': 47, '57': 48, '58': 49, '59': 50, '60': 51, '61': 52, '62': 53, '63': 54, '64': 55, '65': 56, '66': 57, '67': 58, '68': 59, '69': 60, '70': 61}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 37, ' ') (' ', 28, ' ')
+(' ', 38, ' ') (' ', 29, ' ')
+(' ', 39, ' ') (' ', 30, ' ')
+(' ', 40, ' ') (' ', 31, ' ')
+(' ', 41, ' ') (' ', 32, ' ')
+(' ', 42, ' ') (' ', 33, ' ')
+(' ', 43, ' ') (' ', 34, ' ')
+(' ', 44, ' ') (' ', 35, ' ')
+(' ', 45, ' ') (' ', 36, ' ')
+(' ', 46, ' ') (' ', 37, ' ')
+(' ', 47, ' ') (' ', 38, ' ')
+(' ', 48, ' ') (' ', 39, ' ')
+(' ', 49, ' ') (' ', 40, ' ')
+(' ', 50, ' ') (' ', 41, ' ')
+(' ', 51, ' ') (' ', 42, ' ')
+(' ', 52, ' ') (' ', 43, ' ')
+(' ', 53, ' ') (' ', 44, ' ')
+(' ', 54, ' ') (' ', 45, ' ')
+(' ', 55, ' ') (' ', 46, ' ')
+(' ', 56, ' ') (' ', 47, ' ')
+(' ', 57, ' ') (' ', 48, ' ')
+(' ', 58, ' ') (' ', 49, ' ')
+(' ', 59, ' ') (' ', 50, ' ')
+(' ', 60, ' ') (' ', 51, ' ')
+(' ', 61, ' ') (' ', 52, ' ')
+(' ', 62, ' ') (' ', 53, ' ')
+(' ', 63, ' ') (' ', 54, ' ')
+(' ', 64, ' ') (' ', 55, ' ')
+(' ', 65, ' ') (' ', 56, ' ')
+(' ', 66, ' ') (' ', 57, ' ')
+(' ', 67, ' ') (' ', 58, ' ')
+(' ', 68, ' ') (' ', 59, ' ')
+(' ', 69, ' ') (' ', 60, ' ')
+(' ', 70, ' ') (' ', 61, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8ffy_c/8ffy_c_native.pdb
+extracted_pdb/8ffy_c
+
+df is missing in 8ffy_c.
+8ffy_c/8ffy_c_drfold.pdb
+Calculating RMSD for A:1-61 for 8ffy_c/processing/8ffy_c_drfold_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+10.3
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8ffy_c/processing/8ffy_c_drfold_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+0.5058823529411764
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8ffy_c/8ffy_c_drfold_cut.pdb against extracted_pdb/8ffy_c/8ffy_c_native_cut.pdb 
+0.5058823529411764
+8ffy_c/8ffy_c_rf.pdb
+Calculating RMSD for A:1-61 for 8ffy_c/processing/8ffy_c_rf_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+24.5
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8ffy_c/processing/8ffy_c_rf_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+0.3176470588235294
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8ffy_c/8ffy_c_rf_cut.pdb against extracted_pdb/8ffy_c/8ffy_c_native_cut.pdb 
+0.3176470588235294
+8ffy_c/8ffy_c_rhofold.pdb
+Calculating RMSD for A:1-61 for 8ffy_c/processing/8ffy_c_rhofold_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+9.81
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8ffy_c/processing/8ffy_c_rhofold_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+0.6235294117647059
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8ffy_c/8ffy_c_rhofold_cut.pdb against extracted_pdb/8ffy_c/8ffy_c_native_cut.pdb 
+0.6235294117647059
+8ffy_c/8ffy_c_rnac.pdb
+Calculating RMSD for A:1-61 for 8ffy_c/processing/8ffy_c_rnac_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+19.83
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8ffy_c/processing/8ffy_c_rnac_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+0.2
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8ffy_c/8ffy_c_rnac_cut.pdb against extracted_pdb/8ffy_c/8ffy_c_native_cut.pdb 
+0.2
+8ffy_c/8ffy_c_trr.pdb
+Calculating RMSD for A:1-61 for 8ffy_c/processing/8ffy_c_trr_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+4.29
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8ffy_c/processing/8ffy_c_trr_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+0.7764705882352941
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8ffy_c/8ffy_c_trr_cut.pdb against extracted_pdb/8ffy_c/8ffy_c_native_cut.pdb 
+0.7764705882352941
+8ffy_c/8ffy_c_3drna.pdb
+Calculating RMSD for A:1-61 for 8ffy_c/processing/8ffy_c_3drna_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+18.94
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8ffy_c/processing/8ffy_c_3drna_rpr.pdb against 8ffy_c/processing/8ffy_c_native_rpr.pdb 
+0.2
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8ffy_c/8ffy_c_3drna_cut.pdb against extracted_pdb/8ffy_c/8ffy_c_native_cut.pdb 
+0.2
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8gkh_w/8gkh_w_3drna.pdb
+Correct DeepFoldRNA files!
+UCCGAGCCGGUAGUCGCGCGGUUCAAUCCCUGGUGCGGGUGCUAGUACCGGCUCCGCACUAUCUAUAGGUUAUGAA
+UCCGAGCCGGUAGUCGCGCGGUUCAAUCCCUGGUGCGGGUGCUAGUACCGGCUCCGCACUAUCUAUAGGUUAUGAA
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '49': 47, '50': 48, '51': 49, '52': 50, '53': 51, '54': 52, '55': 53, '56': 54, '57': 55, '58': 56, '59': 57, '60': 58, '61': 59, '62': 60, '63': 61, '64': 62, '65': 63, '66': 64, '67': 65, '68': 66, '69': 67, '70': 68, '71': 69, '72': 70, '73': 71, '74': 72, '75': 73, '76': 74, '77': 75, '78': 76}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 49, ' ') (' ', 47, ' ')
+(' ', 50, ' ') (' ', 48, ' ')
+(' ', 51, ' ') (' ', 49, ' ')
+(' ', 52, ' ') (' ', 50, ' ')
+(' ', 53, ' ') (' ', 51, ' ')
+(' ', 54, ' ') (' ', 52, ' ')
+(' ', 55, ' ') (' ', 53, ' ')
+(' ', 56, ' ') (' ', 54, ' ')
+(' ', 57, ' ') (' ', 55, ' ')
+(' ', 58, ' ') (' ', 56, ' ')
+(' ', 59, ' ') (' ', 57, ' ')
+(' ', 60, ' ') (' ', 58, ' ')
+(' ', 61, ' ') (' ', 59, ' ')
+(' ', 62, ' ') (' ', 60, ' ')
+(' ', 63, ' ') (' ', 61, ' ')
+(' ', 64, ' ') (' ', 62, ' ')
+(' ', 65, ' ') (' ', 63, ' ')
+(' ', 66, ' ') (' ', 64, ' ')
+(' ', 67, ' ') (' ', 65, ' ')
+(' ', 68, ' ') (' ', 66, ' ')
+(' ', 69, ' ') (' ', 67, ' ')
+(' ', 70, ' ') (' ', 68, ' ')
+(' ', 71, ' ') (' ', 69, ' ')
+(' ', 72, ' ') (' ', 70, ' ')
+(' ', 73, ' ') (' ', 71, ' ')
+(' ', 74, ' ') (' ', 72, ' ')
+(' ', 75, ' ') (' ', 73, ' ')
+(' ', 76, ' ') (' ', 74, ' ')
+(' ', 77, ' ') (' ', 75, ' ')
+(' ', 78, ' ') (' ', 76, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8gkh_w/8gkh_w_native.pdb
+extracted_pdb/8gkh_w
+
+df is missing in 8gkh_w.
+8gkh_w/8gkh_w_drfold.pdb
+Calculating RMSD for A:1-76 for 8gkh_w/processing/8gkh_w_drfold_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+29.37
+Calculating NATIVE_CONTACT_FRACTON for A:1-76 for 8gkh_w/processing/8gkh_w_drfold_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+0.1095890410958904
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-76 for extracted_pdb/8gkh_w/8gkh_w_drfold_cut.pdb against extracted_pdb/8gkh_w/8gkh_w_native_cut.pdb 
+0.1095890410958904
+8gkh_w/8gkh_w_rf.pdb
+Calculating RMSD for A:1-76 for 8gkh_w/processing/8gkh_w_rf_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+24.65
+Calculating NATIVE_CONTACT_FRACTON for A:1-76 for 8gkh_w/processing/8gkh_w_rf_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+0.2191780821917808
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-76 for extracted_pdb/8gkh_w/8gkh_w_rf_cut.pdb against extracted_pdb/8gkh_w/8gkh_w_native_cut.pdb 
+0.2191780821917808
+8gkh_w/8gkh_w_rhofold.pdb
+Calculating RMSD for A:1-76 for 8gkh_w/processing/8gkh_w_rhofold_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+21.15
+Calculating NATIVE_CONTACT_FRACTON for A:1-76 for 8gkh_w/processing/8gkh_w_rhofold_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+0.273972602739726
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-76 for extracted_pdb/8gkh_w/8gkh_w_rhofold_cut.pdb against extracted_pdb/8gkh_w/8gkh_w_native_cut.pdb 
+0.273972602739726
+8gkh_w/8gkh_w_rnac.pdb
+Calculating RMSD for A:1-76 for 8gkh_w/processing/8gkh_w_rnac_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+17.47
+Calculating NATIVE_CONTACT_FRACTON for A:1-76 for 8gkh_w/processing/8gkh_w_rnac_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+0.6575342465753424
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-76 for extracted_pdb/8gkh_w/8gkh_w_rnac_cut.pdb against extracted_pdb/8gkh_w/8gkh_w_native_cut.pdb 
+0.6575342465753424
+8gkh_w/8gkh_w_trr.pdb
+Calculating RMSD for A:1-76 for 8gkh_w/processing/8gkh_w_trr_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+31.51
+Calculating NATIVE_CONTACT_FRACTON for A:1-76 for 8gkh_w/processing/8gkh_w_trr_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+0.0273972602739726
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-76 for extracted_pdb/8gkh_w/8gkh_w_trr_cut.pdb against extracted_pdb/8gkh_w/8gkh_w_native_cut.pdb 
+0.0273972602739726
+8gkh_w/8gkh_w_3drna.pdb
+Calculating RMSD for A:1-76 for 8gkh_w/processing/8gkh_w_3drna_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+21.7
+Calculating NATIVE_CONTACT_FRACTON for A:1-76 for 8gkh_w/processing/8gkh_w_3drna_rpr.pdb against 8gkh_w/processing/8gkh_w_native_rpr.pdb 
+0.6438356164383562
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-76 for extracted_pdb/8gkh_w/8gkh_w_3drna_cut.pdb against extracted_pdb/8gkh_w/8gkh_w_native_cut.pdb 
+0.6438356164383562
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8gxb_b/8gxb_b_3drna.pdb
+Correct DeepFoldRNA files!
+GGAGCGUUACGUCCGAAAGUCGCAUUGCACUCCGCGACACGGCUCUUUAAAAACAAAAGGA
+GGAGCGUUACGUCCGAAAGUCGCAUUGCACUCCGCGACACGGCUCUUUAAAAACAAAAGGA
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '47': 47, '48': 48, '49': 49, '50': 50, '51': 51, '52': 52, '53': 53, '54': 54, '55': 55, '56': 56, '57': 57, '58': 58, '59': 59, '60': 60, '61': 61}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 47, ' ') (' ', 47, ' ')
+(' ', 48, ' ') (' ', 48, ' ')
+(' ', 49, ' ') (' ', 49, ' ')
+(' ', 50, ' ') (' ', 50, ' ')
+(' ', 51, ' ') (' ', 51, ' ')
+(' ', 52, ' ') (' ', 52, ' ')
+(' ', 53, ' ') (' ', 53, ' ')
+(' ', 54, ' ') (' ', 54, ' ')
+(' ', 55, ' ') (' ', 55, ' ')
+(' ', 56, ' ') (' ', 56, ' ')
+(' ', 57, ' ') (' ', 57, ' ')
+(' ', 58, ' ') (' ', 58, ' ')
+(' ', 59, ' ') (' ', 59, ' ')
+(' ', 60, ' ') (' ', 60, ' ')
+(' ', 61, ' ') (' ', 61, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8gxb_b/8gxb_b_native.pdb
+extracted_pdb/8gxb_b
+
+df is missing in 8gxb_b.
+8gxb_b/8gxb_b_drfold.pdb
+Calculating RMSD for A:1-61 for 8gxb_b/processing/8gxb_b_drfold_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+17.62
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8gxb_b/processing/8gxb_b_drfold_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+0.26548672566371684
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8gxb_b/8gxb_b_drfold_cut.pdb against extracted_pdb/8gxb_b/8gxb_b_native_cut.pdb 
+0.26548672566371684
+8gxb_b/8gxb_b_rf.pdb
+Calculating RMSD for A:1-61 for 8gxb_b/processing/8gxb_b_rf_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+17.43
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8gxb_b/processing/8gxb_b_rf_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+0.25663716814159293
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8gxb_b/8gxb_b_rf_cut.pdb against extracted_pdb/8gxb_b/8gxb_b_native_cut.pdb 
+0.25663716814159293
+8gxb_b/8gxb_b_rhofold.pdb
+Calculating RMSD for A:1-61 for 8gxb_b/processing/8gxb_b_rhofold_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+14.48
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8gxb_b/processing/8gxb_b_rhofold_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+0.3805309734513274
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8gxb_b/8gxb_b_rhofold_cut.pdb against extracted_pdb/8gxb_b/8gxb_b_native_cut.pdb 
+0.3805309734513274
+8gxb_b/8gxb_b_rnac.pdb
+Calculating RMSD for A:1-61 for 8gxb_b/processing/8gxb_b_rnac_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+24.26
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8gxb_b/processing/8gxb_b_rnac_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+0.2743362831858407
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8gxb_b/8gxb_b_rnac_cut.pdb against extracted_pdb/8gxb_b/8gxb_b_native_cut.pdb 
+0.2743362831858407
+8gxb_b/8gxb_b_trr.pdb
+Calculating RMSD for A:1-61 for 8gxb_b/processing/8gxb_b_trr_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+4.45
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8gxb_b/processing/8gxb_b_trr_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+0.7168141592920354
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8gxb_b/8gxb_b_trr_cut.pdb against extracted_pdb/8gxb_b/8gxb_b_native_cut.pdb 
+0.7168141592920354
+8gxb_b/8gxb_b_3drna.pdb
+Calculating RMSD for A:1-61 for 8gxb_b/processing/8gxb_b_3drna_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+21.34
+Calculating NATIVE_CONTACT_FRACTON for A:1-61 for 8gxb_b/processing/8gxb_b_3drna_rpr.pdb against 8gxb_b/processing/8gxb_b_native_rpr.pdb 
+0.008849557522123894
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-61 for extracted_pdb/8gxb_b/8gxb_b_3drna_cut.pdb against extracted_pdb/8gxb_b/8gxb_b_native_cut.pdb 
+0.008849557522123894
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8h7q_d/8h7q_d_3drna.pdb
+Correct DeepFoldRNA files!
+UUUAUCACCGUGUCCCCAAUCUGGAUAUUUUGUGUG
+UUUAUCACCGUGUCCCCAAUCUGGAUAUUUUGUGUG
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8h7q_d/8h7q_d_native.pdb
+extracted_pdb/8h7q_d
+
+df is missing in 8h7q_d.
+8h7q_d/8h7q_d_drfold.pdb
+Calculating RMSD for A:1-36 for 8h7q_d/processing/8h7q_d_drfold_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+18.97
+Calculating NATIVE_CONTACT_FRACTON for A:1-36 for 8h7q_d/processing/8h7q_d_drfold_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+0.5
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-36 for extracted_pdb/8h7q_d/8h7q_d_drfold_cut.pdb against extracted_pdb/8h7q_d/8h7q_d_native_cut.pdb 
+0.5
+8h7q_d/8h7q_d_rf.pdb
+Calculating RMSD for A:1-36 for 8h7q_d/processing/8h7q_d_rf_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+22.38
+Calculating NATIVE_CONTACT_FRACTON for A:1-36 for 8h7q_d/processing/8h7q_d_rf_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-36 for extracted_pdb/8h7q_d/8h7q_d_rf_cut.pdb against extracted_pdb/8h7q_d/8h7q_d_native_cut.pdb 
+0.0
+8h7q_d/8h7q_d_rhofold.pdb
+Calculating RMSD for A:1-36 for 8h7q_d/processing/8h7q_d_rhofold_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+41.88
+Calculating NATIVE_CONTACT_FRACTON for A:1-36 for 8h7q_d/processing/8h7q_d_rhofold_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-36 for extracted_pdb/8h7q_d/8h7q_d_rhofold_cut.pdb against extracted_pdb/8h7q_d/8h7q_d_native_cut.pdb 
+0.0
+8h7q_d/8h7q_d_rnac.pdb
+Calculating RMSD for A:1-36 for 8h7q_d/processing/8h7q_d_rnac_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+42.09
+Calculating NATIVE_CONTACT_FRACTON for A:1-36 for 8h7q_d/processing/8h7q_d_rnac_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+0.3
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-36 for extracted_pdb/8h7q_d/8h7q_d_rnac_cut.pdb against extracted_pdb/8h7q_d/8h7q_d_native_cut.pdb 
+0.3
+8h7q_d/8h7q_d_trr.pdb
+Calculating RMSD for A:1-36 for 8h7q_d/processing/8h7q_d_trr_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+36.38
+Calculating NATIVE_CONTACT_FRACTON for A:1-36 for 8h7q_d/processing/8h7q_d_trr_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+0.1
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-36 for extracted_pdb/8h7q_d/8h7q_d_trr_cut.pdb against extracted_pdb/8h7q_d/8h7q_d_native_cut.pdb 
+0.1
+8h7q_d/8h7q_d_3drna.pdb
+Calculating RMSD for A:1-36 for 8h7q_d/processing/8h7q_d_3drna_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+40.95
+Calculating NATIVE_CONTACT_FRACTON for A:1-36 for 8h7q_d/processing/8h7q_d_3drna_rpr.pdb against 8h7q_d/processing/8h7q_d_native_rpr.pdb 
+0.2
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-36 for extracted_pdb/8h7q_d/8h7q_d_3drna_cut.pdb against extracted_pdb/8h7q_d/8h7q_d_native_cut.pdb 
+0.2
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8hb8_a/8hb8_a_3drna.pdb
+Correct DeepFoldRNA files!
+GCGGCGUUGCGUCCGAAAGUCUAAACAGACACGGCCGCUUAAAAACAAAAGGAGA
+GCGGCGUUGCGUCCGAAAGUCUAAACAGACACGGCCGCUUAAAAACAAAAGGAGA
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '47': 47, '48': 48, '49': 49, '50': 50, '51': 51, '52': 52, '53': 53, '54': 54, '55': 55}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 47, ' ') (' ', 47, ' ')
+(' ', 48, ' ') (' ', 48, ' ')
+(' ', 49, ' ') (' ', 49, ' ')
+(' ', 50, ' ') (' ', 50, ' ')
+(' ', 51, ' ') (' ', 51, ' ')
+(' ', 52, ' ') (' ', 52, ' ')
+(' ', 53, ' ') (' ', 53, ' ')
+(' ', 54, ' ') (' ', 54, ' ')
+(' ', 55, ' ') (' ', 55, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8hb8_a/8hb8_a_native.pdb
+extracted_pdb/8hb8_a
+
+df is missing in 8hb8_a.
+8hb8_a/8hb8_a_drfold.pdb
+Calculating RMSD for A:1-55 for 8hb8_a/processing/8hb8_a_drfold_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+15.6
+Calculating NATIVE_CONTACT_FRACTON for A:1-55 for 8hb8_a/processing/8hb8_a_drfold_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+0.4690265486725664
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-55 for extracted_pdb/8hb8_a/8hb8_a_drfold_cut.pdb against extracted_pdb/8hb8_a/8hb8_a_native_cut.pdb 
+0.4690265486725664
+8hb8_a/8hb8_a_rf.pdb
+Calculating RMSD for A:1-55 for 8hb8_a/processing/8hb8_a_rf_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+24.41
+Calculating NATIVE_CONTACT_FRACTON for A:1-55 for 8hb8_a/processing/8hb8_a_rf_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+0.168141592920354
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-55 for extracted_pdb/8hb8_a/8hb8_a_rf_cut.pdb against extracted_pdb/8hb8_a/8hb8_a_native_cut.pdb 
+0.168141592920354
+8hb8_a/8hb8_a_rhofold.pdb
+Calculating RMSD for A:1-55 for 8hb8_a/processing/8hb8_a_rhofold_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+13.43
+Calculating NATIVE_CONTACT_FRACTON for A:1-55 for 8hb8_a/processing/8hb8_a_rhofold_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+0.46017699115044247
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-55 for extracted_pdb/8hb8_a/8hb8_a_rhofold_cut.pdb against extracted_pdb/8hb8_a/8hb8_a_native_cut.pdb 
+0.46017699115044247
+8hb8_a/8hb8_a_rnac.pdb
+Calculating RMSD for A:1-55 for 8hb8_a/processing/8hb8_a_rnac_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+22.58
+Calculating NATIVE_CONTACT_FRACTON for A:1-55 for 8hb8_a/processing/8hb8_a_rnac_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+0.24778761061946902
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-55 for extracted_pdb/8hb8_a/8hb8_a_rnac_cut.pdb against extracted_pdb/8hb8_a/8hb8_a_native_cut.pdb 
+0.24778761061946902
+8hb8_a/8hb8_a_trr.pdb
+Calculating RMSD for A:1-55 for 8hb8_a/processing/8hb8_a_trr_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+3.09
+Calculating NATIVE_CONTACT_FRACTON for A:1-55 for 8hb8_a/processing/8hb8_a_trr_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+0.7433628318584071
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-55 for extracted_pdb/8hb8_a/8hb8_a_trr_cut.pdb against extracted_pdb/8hb8_a/8hb8_a_native_cut.pdb 
+0.7433628318584071
+8hb8_a/8hb8_a_3drna.pdb
+Calculating RMSD for A:1-55 for 8hb8_a/processing/8hb8_a_3drna_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+23.79
+Calculating NATIVE_CONTACT_FRACTON for A:1-55 for 8hb8_a/processing/8hb8_a_3drna_rpr.pdb against 8hb8_a/processing/8hb8_a_native_rpr.pdb 
+0.11504424778761062
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-55 for extracted_pdb/8hb8_a/8hb8_a_3drna_cut.pdb against extracted_pdb/8hb8_a/8hb8_a_native_cut.pdb 
+0.11504424778761062
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8hud_b/8hud_b_3drna.pdb
+Correct DeepFoldRNA files!
+GGUAAUCGCUCUCCUCCGGCGAUUUUAGUACCUGAGAAAUCAGAUCUACUAAAACAAGGCUUUAUGCCGAAA
+GGUAAUCGCUCUCCUCCGGCGAUUUUAGUACCUGAGAAAUCAGAUCUACUAAAACAAGGCUUUAUGCCGAAA
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '47': 47, '48': 48, '49': 49, '50': 50, '51': 51, '52': 52, '53': 53, '54': 54, '55': 55, '56': 56, '57': 57, '58': 58, '59': 59, '60': 60, '61': 61, '62': 62, '63': 63, '64': 64, '65': 65, '66': 66, '67': 67, '68': 68, '69': 69, '70': 70, '71': 71, '72': 72}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 47, ' ') (' ', 47, ' ')
+(' ', 48, ' ') (' ', 48, ' ')
+(' ', 49, ' ') (' ', 49, ' ')
+(' ', 50, ' ') (' ', 50, ' ')
+(' ', 51, ' ') (' ', 51, ' ')
+(' ', 52, ' ') (' ', 52, ' ')
+(' ', 53, ' ') (' ', 53, ' ')
+(' ', 54, ' ') (' ', 54, ' ')
+(' ', 55, ' ') (' ', 55, ' ')
+(' ', 56, ' ') (' ', 56, ' ')
+(' ', 57, ' ') (' ', 57, ' ')
+(' ', 58, ' ') (' ', 58, ' ')
+(' ', 59, ' ') (' ', 59, ' ')
+(' ', 60, ' ') (' ', 60, ' ')
+(' ', 61, ' ') (' ', 61, ' ')
+(' ', 62, ' ') (' ', 62, ' ')
+(' ', 63, ' ') (' ', 63, ' ')
+(' ', 64, ' ') (' ', 64, ' ')
+(' ', 65, ' ') (' ', 65, ' ')
+(' ', 66, ' ') (' ', 66, ' ')
+(' ', 67, ' ') (' ', 67, ' ')
+(' ', 68, ' ') (' ', 68, ' ')
+(' ', 69, ' ') (' ', 69, ' ')
+(' ', 70, ' ') (' ', 70, ' ')
+(' ', 71, ' ') (' ', 71, ' ')
+(' ', 72, ' ') (' ', 72, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8hud_b/8hud_b_native.pdb
+extracted_pdb/8hud_b
+
+df is missing in 8hud_b.
+8hud_b/8hud_b_drfold.pdb
+Calculating RMSD for A:1-72 for 8hud_b/processing/8hud_b_drfold_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+16.17
+Calculating NATIVE_CONTACT_FRACTON for A:1-72 for 8hud_b/processing/8hud_b_drfold_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+0.7777777777777778
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-72 for extracted_pdb/8hud_b/8hud_b_drfold_cut.pdb against extracted_pdb/8hud_b/8hud_b_native_cut.pdb 
+0.7777777777777778
+8hud_b/8hud_b_rf.pdb
+Calculating RMSD for A:1-72 for 8hud_b/processing/8hud_b_rf_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+21.02
+Calculating NATIVE_CONTACT_FRACTON for A:1-72 for 8hud_b/processing/8hud_b_rf_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+0.6349206349206349
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-72 for extracted_pdb/8hud_b/8hud_b_rf_cut.pdb against extracted_pdb/8hud_b/8hud_b_native_cut.pdb 
+0.6349206349206349
+8hud_b/8hud_b_rhofold.pdb
+Calculating RMSD for A:1-72 for 8hud_b/processing/8hud_b_rhofold_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+3.66
+Calculating NATIVE_CONTACT_FRACTON for A:1-72 for 8hud_b/processing/8hud_b_rhofold_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+0.8412698412698413
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-72 for extracted_pdb/8hud_b/8hud_b_rhofold_cut.pdb against extracted_pdb/8hud_b/8hud_b_native_cut.pdb 
+0.8412698412698413
+8hud_b/8hud_b_rnac.pdb
+Calculating RMSD for A:1-72 for 8hud_b/processing/8hud_b_rnac_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+18.34
+Calculating NATIVE_CONTACT_FRACTON for A:1-72 for 8hud_b/processing/8hud_b_rnac_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+0.8253968253968254
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-72 for extracted_pdb/8hud_b/8hud_b_rnac_cut.pdb against extracted_pdb/8hud_b/8hud_b_native_cut.pdb 
+0.8253968253968254
+8hud_b/8hud_b_trr.pdb
+Calculating RMSD for A:1-72 for 8hud_b/processing/8hud_b_trr_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+16.28
+Calculating NATIVE_CONTACT_FRACTON for A:1-72 for 8hud_b/processing/8hud_b_trr_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+0.7936507936507936
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-72 for extracted_pdb/8hud_b/8hud_b_trr_cut.pdb against extracted_pdb/8hud_b/8hud_b_native_cut.pdb 
+0.7936507936507936
+8hud_b/8hud_b_3drna.pdb
+Calculating RMSD for A:1-72 for 8hud_b/processing/8hud_b_3drna_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+21.98
+Calculating NATIVE_CONTACT_FRACTON for A:1-72 for 8hud_b/processing/8hud_b_3drna_rpr.pdb against 8hud_b/processing/8hud_b_native_rpr.pdb 
+0.6031746031746031
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-72 for extracted_pdb/8hud_b/8hud_b_3drna_cut.pdb against extracted_pdb/8hud_b/8hud_b_native_cut.pdb 
+0.6031746031746031
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8ibw_d/8ibw_d_3drna.pdb
+Correct DeepFoldRNA files!
+GUAGAUCAGCUGAUCCAAUUUCGCCGGCCGGCGAUGAAA
+GUAGAUCAGCUGAUCCAAUUUCGCCGGCCGGCGAUGAAA
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '16': 10, '17': 11, '18': 12, '19': 13, '20': 14, '21': 15, '22': 16, '23': 17, '24': 18, '25': 19, '26': 20, '27': 21, '28': 22, '29': 23, '30': 24, '31': 25, '32': 26, '33': 27, '39': 28, '40': 29, '41': 30, '42': 31, '43': 32, '44': 33, '45': 34, '46': 35, '47': 36, '48': 37, '49': 38, '50': 39}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 16, ' ') (' ', 10, ' ')
+(' ', 17, ' ') (' ', 11, ' ')
+(' ', 18, ' ') (' ', 12, ' ')
+(' ', 19, ' ') (' ', 13, ' ')
+(' ', 20, ' ') (' ', 14, ' ')
+(' ', 21, ' ') (' ', 15, ' ')
+(' ', 22, ' ') (' ', 16, ' ')
+(' ', 23, ' ') (' ', 17, ' ')
+(' ', 24, ' ') (' ', 18, ' ')
+(' ', 25, ' ') (' ', 19, ' ')
+(' ', 26, ' ') (' ', 20, ' ')
+(' ', 27, ' ') (' ', 21, ' ')
+(' ', 28, ' ') (' ', 22, ' ')
+(' ', 29, ' ') (' ', 23, ' ')
+(' ', 30, ' ') (' ', 24, ' ')
+(' ', 31, ' ') (' ', 25, ' ')
+(' ', 32, ' ') (' ', 26, ' ')
+(' ', 33, ' ') (' ', 27, ' ')
+(' ', 39, ' ') (' ', 28, ' ')
+(' ', 40, ' ') (' ', 29, ' ')
+(' ', 41, ' ') (' ', 30, ' ')
+(' ', 42, ' ') (' ', 31, ' ')
+(' ', 43, ' ') (' ', 32, ' ')
+(' ', 44, ' ') (' ', 33, ' ')
+(' ', 45, ' ') (' ', 34, ' ')
+(' ', 46, ' ') (' ', 35, ' ')
+(' ', 47, ' ') (' ', 36, ' ')
+(' ', 48, ' ') (' ', 37, ' ')
+(' ', 49, ' ') (' ', 38, ' ')
+(' ', 50, ' ') (' ', 39, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8ibw_d/8ibw_d_native.pdb
+extracted_pdb/8ibw_d
+
+df is missing in 8ibw_d.
+8ibw_d/8ibw_d_drfold.pdb
+Calculating RMSD for A:1-39 for 8ibw_d/processing/8ibw_d_drfold_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+19.75
+Calculating NATIVE_CONTACT_FRACTON for A:1-39 for 8ibw_d/processing/8ibw_d_drfold_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+0.23404255319148937
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-39 for extracted_pdb/8ibw_d/8ibw_d_drfold_cut.pdb against extracted_pdb/8ibw_d/8ibw_d_native_cut.pdb 
+0.23404255319148937
+8ibw_d/8ibw_d_rf.pdb
+Calculating RMSD for A:1-39 for 8ibw_d/processing/8ibw_d_rf_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+14.53
+Calculating NATIVE_CONTACT_FRACTON for A:1-39 for 8ibw_d/processing/8ibw_d_rf_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+0.5957446808510638
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-39 for extracted_pdb/8ibw_d/8ibw_d_rf_cut.pdb against extracted_pdb/8ibw_d/8ibw_d_native_cut.pdb 
+0.5957446808510638
+8ibw_d/8ibw_d_rhofold.pdb
+Calculating RMSD for A:1-39 for 8ibw_d/processing/8ibw_d_rhofold_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+22.14
+Calculating NATIVE_CONTACT_FRACTON for A:1-39 for 8ibw_d/processing/8ibw_d_rhofold_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+0.3404255319148936
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-39 for extracted_pdb/8ibw_d/8ibw_d_rhofold_cut.pdb against extracted_pdb/8ibw_d/8ibw_d_native_cut.pdb 
+0.3404255319148936
+8ibw_d/8ibw_d_rnac.pdb
+Calculating RMSD for A:1-39 for 8ibw_d/processing/8ibw_d_rnac_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+11.56
+Calculating NATIVE_CONTACT_FRACTON for A:1-39 for 8ibw_d/processing/8ibw_d_rnac_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+0.5531914893617021
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-39 for extracted_pdb/8ibw_d/8ibw_d_rnac_cut.pdb against extracted_pdb/8ibw_d/8ibw_d_native_cut.pdb 
+0.5531914893617021
+8ibw_d/8ibw_d_trr.pdb
+Calculating RMSD for A:1-39 for 8ibw_d/processing/8ibw_d_trr_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+12.53
+Calculating NATIVE_CONTACT_FRACTON for A:1-39 for 8ibw_d/processing/8ibw_d_trr_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+0.48936170212765956
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-39 for extracted_pdb/8ibw_d/8ibw_d_trr_cut.pdb against extracted_pdb/8ibw_d/8ibw_d_native_cut.pdb 
+0.48936170212765956
+8ibw_d/8ibw_d_3drna.pdb
+Calculating RMSD for A:1-39 for 8ibw_d/processing/8ibw_d_3drna_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+12.92
+Calculating NATIVE_CONTACT_FRACTON for A:1-39 for 8ibw_d/processing/8ibw_d_3drna_rpr.pdb against 8ibw_d/processing/8ibw_d_native_rpr.pdb 
+0.5531914893617021
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-39 for extracted_pdb/8ibw_d/8ibw_d_3drna_cut.pdb against extracted_pdb/8ibw_d/8ibw_d_native_cut.pdb 
+0.5531914893617021
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8j1q_e/8j1q_e_3drna.pdb
+Correct DeepFoldRNA files!
+AGGUGAACCUUACGUUCAACUGGAUCGUGUGUAGGUACACCG
+AGGUGAACCUUACGUUCAACUGGAUCGUGUGUAGGUACACCG
+The sequences are the same!
+{'24': 1, '25': 2, '26': 3, '27': 4, '28': 5, '29': 6, '30': 7, '31': 8, '32': 9, '33': 10, '34': 11, '35': 12, '36': 13, '37': 14, '38': 15, '39': 16, '40': 17, '41': 18, '42': 19, '43': 20, '44': 21, '45': 22, '46': 23, '47': 24, '48': 25, '49': 26, '50': 27, '51': 28, '52': 29, '53': 30, '54': 31, '55': 32, '56': 33, '57': 34, '58': 35, '59': 36, '60': 37, '61': 38, '62': 39, '63': 40, '64': 41, '65': 42}
+(' ', 24, ' ') (' ', 1, ' ')
+(' ', 25, ' ') (' ', 2, ' ')
+(' ', 26, ' ') (' ', 3, ' ')
+(' ', 27, ' ') (' ', 4, ' ')
+(' ', 28, ' ') (' ', 5, ' ')
+(' ', 29, ' ') (' ', 6, ' ')
+(' ', 30, ' ') (' ', 7, ' ')
+(' ', 31, ' ') (' ', 8, ' ')
+(' ', 32, ' ') (' ', 9, ' ')
+(' ', 33, ' ') (' ', 10, ' ')
+(' ', 34, ' ') (' ', 11, ' ')
+(' ', 35, ' ') (' ', 12, ' ')
+(' ', 36, ' ') (' ', 13, ' ')
+(' ', 37, ' ') (' ', 14, ' ')
+(' ', 38, ' ') (' ', 15, ' ')
+(' ', 39, ' ') (' ', 16, ' ')
+(' ', 40, ' ') (' ', 17, ' ')
+(' ', 41, ' ') (' ', 18, ' ')
+(' ', 42, ' ') (' ', 19, ' ')
+(' ', 43, ' ') (' ', 20, ' ')
+(' ', 44, ' ') (' ', 21, ' ')
+(' ', 45, ' ') (' ', 22, ' ')
+(' ', 46, ' ') (' ', 23, ' ')
+(' ', 47, ' ') (' ', 24, ' ')
+(' ', 48, ' ') (' ', 25, ' ')
+(' ', 49, ' ') (' ', 26, ' ')
+(' ', 50, ' ') (' ', 27, ' ')
+(' ', 51, ' ') (' ', 28, ' ')
+(' ', 52, ' ') (' ', 29, ' ')
+(' ', 53, ' ') (' ', 30, ' ')
+(' ', 54, ' ') (' ', 31, ' ')
+(' ', 55, ' ') (' ', 32, ' ')
+(' ', 56, ' ') (' ', 33, ' ')
+(' ', 57, ' ') (' ', 34, ' ')
+(' ', 58, ' ') (' ', 35, ' ')
+(' ', 59, ' ') (' ', 36, ' ')
+(' ', 60, ' ') (' ', 37, ' ')
+(' ', 61, ' ') (' ', 38, ' ')
+(' ', 62, ' ') (' ', 39, ' ')
+(' ', 63, ' ') (' ', 40, ' ')
+(' ', 64, ' ') (' ', 41, ' ')
+(' ', 65, ' ') (' ', 42, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8j1q_e/8j1q_e_native.pdb
+extracted_pdb/8j1q_e
+
+df is missing in 8j1q_e.
+8j1q_e/8j1q_e_drfold.pdb
+Calculating RMSD for A:1-42 for 8j1q_e/processing/8j1q_e_drfold_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+10.91
+Calculating NATIVE_CONTACT_FRACTON for A:1-42 for 8j1q_e/processing/8j1q_e_drfold_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+0.11666666666666667
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-42 for extracted_pdb/8j1q_e/8j1q_e_drfold_cut.pdb against extracted_pdb/8j1q_e/8j1q_e_native_cut.pdb 
+0.11666666666666667
+8j1q_e/8j1q_e_rf.pdb
+Calculating RMSD for A:1-42 for 8j1q_e/processing/8j1q_e_rf_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+12.53
+Calculating NATIVE_CONTACT_FRACTON for A:1-42 for 8j1q_e/processing/8j1q_e_rf_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+0.06666666666666667
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-42 for extracted_pdb/8j1q_e/8j1q_e_rf_cut.pdb against extracted_pdb/8j1q_e/8j1q_e_native_cut.pdb 
+0.06666666666666667
+8j1q_e/8j1q_e_rhofold.pdb
+Calculating RMSD for A:1-42 for 8j1q_e/processing/8j1q_e_rhofold_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+11.9
+Calculating NATIVE_CONTACT_FRACTON for A:1-42 for 8j1q_e/processing/8j1q_e_rhofold_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+0.1
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-42 for extracted_pdb/8j1q_e/8j1q_e_rhofold_cut.pdb against extracted_pdb/8j1q_e/8j1q_e_native_cut.pdb 
+0.1
+8j1q_e/8j1q_e_rnac.pdb
+Calculating RMSD for A:1-42 for 8j1q_e/processing/8j1q_e_rnac_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+10.36
+Calculating NATIVE_CONTACT_FRACTON for A:1-42 for 8j1q_e/processing/8j1q_e_rnac_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+0.06666666666666667
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-42 for extracted_pdb/8j1q_e/8j1q_e_rnac_cut.pdb against extracted_pdb/8j1q_e/8j1q_e_native_cut.pdb 
+0.06666666666666667
+8j1q_e/8j1q_e_trr.pdb
+Calculating RMSD for A:1-42 for 8j1q_e/processing/8j1q_e_trr_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+10.44
+Calculating NATIVE_CONTACT_FRACTON for A:1-42 for 8j1q_e/processing/8j1q_e_trr_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+0.06666666666666667
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-42 for extracted_pdb/8j1q_e/8j1q_e_trr_cut.pdb against extracted_pdb/8j1q_e/8j1q_e_native_cut.pdb 
+0.06666666666666667
+8j1q_e/8j1q_e_3drna.pdb
+Calculating RMSD for A:1-42 for 8j1q_e/processing/8j1q_e_3drna_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+10.09
+Calculating NATIVE_CONTACT_FRACTON for A:1-42 for 8j1q_e/processing/8j1q_e_3drna_rpr.pdb against 8j1q_e/processing/8j1q_e_native_rpr.pdb 
+0.06666666666666667
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-42 for extracted_pdb/8j1q_e/8j1q_e_3drna_cut.pdb against extracted_pdb/8j1q_e/8j1q_e_native_cut.pdb 
+0.06666666666666667
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8sqj_p/8sqj_p_3drna.pdb
+Correct DeepFoldRNA files!
+AGCAUGCUACGUCAUUCUCCACGCGAAGCAUG
+AGCAUGCUACGUCAUUCUCCACGCGAAGCAUG
+The sequences are the same!
+{'6': 1, '7': 2, '8': 3, '9': 4, '10': 5, '11': 6, '12': 7, '13': 8, '14': 9, '15': 10, '16': 11, '17': 12, '18': 13, '19': 14, '20': 15, '21': 16, '22': 17, '23': 18, '24': 19, '25': 20, '26': 21, '27': 22, '28': 23, '29': 24, '30': 25, '31': 26, '32': 27, '33': 28, '34': 29, '35': 30, '36': 31, '37': 32}
+(' ', 6, ' ') (' ', 1, ' ')
+(' ', 7, ' ') (' ', 2, ' ')
+(' ', 8, ' ') (' ', 3, ' ')
+(' ', 9, ' ') (' ', 4, ' ')
+(' ', 10, ' ') (' ', 5, ' ')
+(' ', 11, ' ') (' ', 6, ' ')
+(' ', 12, ' ') (' ', 7, ' ')
+(' ', 13, ' ') (' ', 8, ' ')
+(' ', 14, ' ') (' ', 9, ' ')
+(' ', 15, ' ') (' ', 10, ' ')
+(' ', 16, ' ') (' ', 11, ' ')
+(' ', 17, ' ') (' ', 12, ' ')
+(' ', 18, ' ') (' ', 13, ' ')
+(' ', 19, ' ') (' ', 14, ' ')
+(' ', 20, ' ') (' ', 15, ' ')
+(' ', 21, ' ') (' ', 16, ' ')
+(' ', 22, ' ') (' ', 17, ' ')
+(' ', 23, ' ') (' ', 18, ' ')
+(' ', 24, ' ') (' ', 19, ' ')
+(' ', 25, ' ') (' ', 20, ' ')
+(' ', 26, ' ') (' ', 21, ' ')
+(' ', 27, ' ') (' ', 22, ' ')
+(' ', 28, ' ') (' ', 23, ' ')
+(' ', 29, ' ') (' ', 24, ' ')
+(' ', 30, ' ') (' ', 25, ' ')
+(' ', 31, ' ') (' ', 26, ' ')
+(' ', 32, ' ') (' ', 27, ' ')
+(' ', 33, ' ') (' ', 28, ' ')
+(' ', 34, ' ') (' ', 29, ' ')
+(' ', 35, ' ') (' ', 30, ' ')
+(' ', 36, ' ') (' ', 31, ' ')
+(' ', 37, ' ') (' ', 32, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8sqj_p/8sqj_p_native.pdb
+extracted_pdb/8sqj_p
+
+df is missing in 8sqj_p.
+8sqj_p/8sqj_p_drfold.pdb
+Calculating RMSD for A:1-32 for 8sqj_p/processing/8sqj_p_drfold_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+30.86
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8sqj_p/processing/8sqj_p_drfold_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8sqj_p/8sqj_p_drfold_cut.pdb against extracted_pdb/8sqj_p/8sqj_p_native_cut.pdb 
+0.0
+8sqj_p/8sqj_p_rf.pdb
+Calculating RMSD for A:1-32 for 8sqj_p/processing/8sqj_p_rf_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+31.24
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8sqj_p/processing/8sqj_p_rf_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8sqj_p/8sqj_p_rf_cut.pdb against extracted_pdb/8sqj_p/8sqj_p_native_cut.pdb 
+0.0
+8sqj_p/8sqj_p_rhofold.pdb
+Calculating RMSD for A:1-32 for 8sqj_p/processing/8sqj_p_rhofold_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+31.27
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8sqj_p/processing/8sqj_p_rhofold_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8sqj_p/8sqj_p_rhofold_cut.pdb against extracted_pdb/8sqj_p/8sqj_p_native_cut.pdb 
+0.0
+8sqj_p/8sqj_p_rnac.pdb
+Calculating RMSD for A:1-32 for 8sqj_p/processing/8sqj_p_rnac_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+31.51
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8sqj_p/processing/8sqj_p_rnac_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8sqj_p/8sqj_p_rnac_cut.pdb against extracted_pdb/8sqj_p/8sqj_p_native_cut.pdb 
+0.0
+8sqj_p/8sqj_p_trr.pdb
+Calculating RMSD for A:1-32 for 8sqj_p/processing/8sqj_p_trr_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+11.08
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8sqj_p/processing/8sqj_p_trr_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8sqj_p/8sqj_p_trr_cut.pdb against extracted_pdb/8sqj_p/8sqj_p_native_cut.pdb 
+0.0
+8sqj_p/8sqj_p_3drna.pdb
+Calculating RMSD for A:1-32 for 8sqj_p/processing/8sqj_p_3drna_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+31.83
+Calculating NATIVE_CONTACT_FRACTON for A:1-32 for 8sqj_p/processing/8sqj_p_3drna_rpr.pdb against 8sqj_p/processing/8sqj_p_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-32 for extracted_pdb/8sqj_p/8sqj_p_3drna_cut.pdb against extracted_pdb/8sqj_p/8sqj_p_native_cut.pdb 
+0.0
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8sqj_t/8sqj_t_3drna.pdb
+Correct DeepFoldRNA files!
+UGUCAUGCUUCGCGUGGAGAAUGACGUAGCAUGCU
+UGUCAUGCUUCGCGUGGAGAAUGACGUAGCAUGCU
+The sequences are the same!
+{'16': 1, '17': 2, '18': 3, '19': 4, '20': 5, '21': 6, '22': 7, '23': 8, '24': 9, '25': 10, '26': 11, '27': 12, '28': 13, '29': 14, '30': 15, '31': 16, '32': 17, '33': 18, '34': 19, '35': 20, '36': 21, '37': 22, '38': 23, '39': 24, '40': 25, '41': 26, '42': 27, '43': 28, '44': 29, '45': 30, '46': 31, '47': 32, '48': 33, '49': 34, '50': 35}
+(' ', 16, ' ') (' ', 1, ' ')
+(' ', 17, ' ') (' ', 2, ' ')
+(' ', 18, ' ') (' ', 3, ' ')
+(' ', 19, ' ') (' ', 4, ' ')
+(' ', 20, ' ') (' ', 5, ' ')
+(' ', 21, ' ') (' ', 6, ' ')
+(' ', 22, ' ') (' ', 7, ' ')
+(' ', 23, ' ') (' ', 8, ' ')
+(' ', 24, ' ') (' ', 9, ' ')
+(' ', 25, ' ') (' ', 10, ' ')
+(' ', 26, ' ') (' ', 11, ' ')
+(' ', 27, ' ') (' ', 12, ' ')
+(' ', 28, ' ') (' ', 13, ' ')
+(' ', 29, ' ') (' ', 14, ' ')
+(' ', 30, ' ') (' ', 15, ' ')
+(' ', 31, ' ') (' ', 16, ' ')
+(' ', 32, ' ') (' ', 17, ' ')
+(' ', 33, ' ') (' ', 18, ' ')
+(' ', 34, ' ') (' ', 19, ' ')
+(' ', 35, ' ') (' ', 20, ' ')
+(' ', 36, ' ') (' ', 21, ' ')
+(' ', 37, ' ') (' ', 22, ' ')
+(' ', 38, ' ') (' ', 23, ' ')
+(' ', 39, ' ') (' ', 24, ' ')
+(' ', 40, ' ') (' ', 25, ' ')
+(' ', 41, ' ') (' ', 26, ' ')
+(' ', 42, ' ') (' ', 27, ' ')
+(' ', 43, ' ') (' ', 28, ' ')
+(' ', 44, ' ') (' ', 29, ' ')
+(' ', 45, ' ') (' ', 30, ' ')
+(' ', 46, ' ') (' ', 31, ' ')
+(' ', 47, ' ') (' ', 32, ' ')
+(' ', 48, ' ') (' ', 33, ' ')
+(' ', 49, ' ') (' ', 34, ' ')
+(' ', 50, ' ') (' ', 35, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8sqj_t/8sqj_t_native.pdb
+extracted_pdb/8sqj_t
+
+df is missing in 8sqj_t.
+8sqj_t/8sqj_t_drfold.pdb
+Calculating RMSD for A:1-35 for 8sqj_t/processing/8sqj_t_drfold_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+5.16
+Calculating NATIVE_CONTACT_FRACTON for A:1-35 for 8sqj_t/processing/8sqj_t_drfold_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-35 for extracted_pdb/8sqj_t/8sqj_t_drfold_cut.pdb against extracted_pdb/8sqj_t/8sqj_t_native_cut.pdb 
+0.0
+8sqj_t/8sqj_t_rf.pdb
+Calculating RMSD for A:1-35 for 8sqj_t/processing/8sqj_t_rf_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+23.16
+Calculating NATIVE_CONTACT_FRACTON for A:1-35 for 8sqj_t/processing/8sqj_t_rf_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-35 for extracted_pdb/8sqj_t/8sqj_t_rf_cut.pdb against extracted_pdb/8sqj_t/8sqj_t_native_cut.pdb 
+0.0
+8sqj_t/8sqj_t_rhofold.pdb
+Calculating RMSD for A:1-35 for 8sqj_t/processing/8sqj_t_rhofold_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+33.06
+Calculating NATIVE_CONTACT_FRACTON for A:1-35 for 8sqj_t/processing/8sqj_t_rhofold_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-35 for extracted_pdb/8sqj_t/8sqj_t_rhofold_cut.pdb against extracted_pdb/8sqj_t/8sqj_t_native_cut.pdb 
+0.0
+8sqj_t/8sqj_t_rnac.pdb
+Calculating RMSD for A:1-35 for 8sqj_t/processing/8sqj_t_rnac_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+31.34
+Calculating NATIVE_CONTACT_FRACTON for A:1-35 for 8sqj_t/processing/8sqj_t_rnac_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-35 for extracted_pdb/8sqj_t/8sqj_t_rnac_cut.pdb against extracted_pdb/8sqj_t/8sqj_t_native_cut.pdb 
+0.0
+8sqj_t/8sqj_t_trr.pdb
+Calculating RMSD for A:1-35 for 8sqj_t/processing/8sqj_t_trr_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+11.65
+Calculating NATIVE_CONTACT_FRACTON for A:1-35 for 8sqj_t/processing/8sqj_t_trr_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-35 for extracted_pdb/8sqj_t/8sqj_t_trr_cut.pdb against extracted_pdb/8sqj_t/8sqj_t_native_cut.pdb 
+0.0
+8sqj_t/8sqj_t_3drna.pdb
+Calculating RMSD for A:1-35 for 8sqj_t/processing/8sqj_t_3drna_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+32.6
+Calculating NATIVE_CONTACT_FRACTON for A:1-35 for 8sqj_t/processing/8sqj_t_3drna_rpr.pdb against 8sqj_t/processing/8sqj_t_native_rpr.pdb 
+0.0
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-35 for extracted_pdb/8sqj_t/8sqj_t_3drna_cut.pdb against extracted_pdb/8sqj_t/8sqj_t_native_cut.pdb 
+0.0
+Correcting 3DRNA files!
+Residue names have been corrected and saved to 8upt_a/8upt_a_3drna.pdb
+Correct DeepFoldRNA files!
+GGGGGACGGUCCGGCGACCAGCGGGUCUCUAAAACCUAGCCAGCGGGGUUCGACGCCCCGGUCUCUCGCCA
+GGGGGACGGUCCGGCGACCAGCGGGUCUCUAAAACCUAGCCAGCGGGGUUCGACGCCCCGGUCUCUCGCCA
+The sequences are the same!
+{'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11, '12': 12, '13': 13, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21, '22': 22, '23': 23, '24': 24, '25': 25, '26': 26, '27': 27, '28': 28, '29': 29, '30': 30, '31': 31, '32': 32, '33': 33, '34': 34, '35': 35, '36': 36, '37': 37, '38': 38, '39': 39, '40': 40, '41': 41, '42': 42, '43': 43, '44': 44, '45': 45, '46': 46, '47': 47, '48': 48, '49': 49, '50': 50, '51': 51, '52': 52, '53': 53, '54': 54, '55': 55, '56': 56, '57': 57, '58': 58, '59': 59, '60': 60, '61': 61, '62': 62, '63': 63, '64': 64, '65': 65, '66': 66, '67': 67, '68': 68, '69': 69, '70': 70, '71': 71}
+(' ', 1, ' ') (' ', 1, ' ')
+(' ', 2, ' ') (' ', 2, ' ')
+(' ', 3, ' ') (' ', 3, ' ')
+(' ', 4, ' ') (' ', 4, ' ')
+(' ', 5, ' ') (' ', 5, ' ')
+(' ', 6, ' ') (' ', 6, ' ')
+(' ', 7, ' ') (' ', 7, ' ')
+(' ', 8, ' ') (' ', 8, ' ')
+(' ', 9, ' ') (' ', 9, ' ')
+(' ', 10, ' ') (' ', 10, ' ')
+(' ', 11, ' ') (' ', 11, ' ')
+(' ', 12, ' ') (' ', 12, ' ')
+(' ', 13, ' ') (' ', 13, ' ')
+(' ', 14, ' ') (' ', 14, ' ')
+(' ', 15, ' ') (' ', 15, ' ')
+(' ', 16, ' ') (' ', 16, ' ')
+(' ', 17, ' ') (' ', 17, ' ')
+(' ', 18, ' ') (' ', 18, ' ')
+(' ', 19, ' ') (' ', 19, ' ')
+(' ', 20, ' ') (' ', 20, ' ')
+(' ', 21, ' ') (' ', 21, ' ')
+(' ', 22, ' ') (' ', 22, ' ')
+(' ', 23, ' ') (' ', 23, ' ')
+(' ', 24, ' ') (' ', 24, ' ')
+(' ', 25, ' ') (' ', 25, ' ')
+(' ', 26, ' ') (' ', 26, ' ')
+(' ', 27, ' ') (' ', 27, ' ')
+(' ', 28, ' ') (' ', 28, ' ')
+(' ', 29, ' ') (' ', 29, ' ')
+(' ', 30, ' ') (' ', 30, ' ')
+(' ', 31, ' ') (' ', 31, ' ')
+(' ', 32, ' ') (' ', 32, ' ')
+(' ', 33, ' ') (' ', 33, ' ')
+(' ', 34, ' ') (' ', 34, ' ')
+(' ', 35, ' ') (' ', 35, ' ')
+(' ', 36, ' ') (' ', 36, ' ')
+(' ', 37, ' ') (' ', 37, ' ')
+(' ', 38, ' ') (' ', 38, ' ')
+(' ', 39, ' ') (' ', 39, ' ')
+(' ', 40, ' ') (' ', 40, ' ')
+(' ', 41, ' ') (' ', 41, ' ')
+(' ', 42, ' ') (' ', 42, ' ')
+(' ', 43, ' ') (' ', 43, ' ')
+(' ', 44, ' ') (' ', 44, ' ')
+(' ', 45, ' ') (' ', 45, ' ')
+(' ', 46, ' ') (' ', 46, ' ')
+(' ', 47, ' ') (' ', 47, ' ')
+(' ', 48, ' ') (' ', 48, ' ')
+(' ', 49, ' ') (' ', 49, ' ')
+(' ', 50, ' ') (' ', 50, ' ')
+(' ', 51, ' ') (' ', 51, ' ')
+(' ', 52, ' ') (' ', 52, ' ')
+(' ', 53, ' ') (' ', 53, ' ')
+(' ', 54, ' ') (' ', 54, ' ')
+(' ', 55, ' ') (' ', 55, ' ')
+(' ', 56, ' ') (' ', 56, ' ')
+(' ', 57, ' ') (' ', 57, ' ')
+(' ', 58, ' ') (' ', 58, ' ')
+(' ', 59, ' ') (' ', 59, ' ')
+(' ', 60, ' ') (' ', 60, ' ')
+(' ', 61, ' ') (' ', 61, ' ')
+(' ', 62, ' ') (' ', 62, ' ')
+(' ', 63, ' ') (' ', 63, ' ')
+(' ', 64, ' ') (' ', 64, ' ')
+(' ', 65, ' ') (' ', 65, ' ')
+(' ', 66, ' ') (' ', 66, ' ')
+(' ', 67, ' ') (' ', 67, ' ')
+(' ', 68, ' ') (' ', 68, ' ')
+(' ', 69, ' ') (' ', 69, ' ')
+(' ', 70, ' ') (' ', 70, ' ')
+(' ', 71, ' ') (' ', 71, ' ')
+[<Model id=0>]
+Renumbering and preprocessing done for: 8upt_a/8upt_a_native.pdb
+extracted_pdb/8upt_a
+
+df is missing in 8upt_a.
+8upt_a/8upt_a_drfold.pdb
+Calculating RMSD for A:1-71 for 8upt_a/processing/8upt_a_drfold_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+3.82
+Calculating NATIVE_CONTACT_FRACTON for A:1-71 for 8upt_a/processing/8upt_a_drfold_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+0.7758620689655172
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-71 for extracted_pdb/8upt_a/8upt_a_drfold_cut.pdb against extracted_pdb/8upt_a/8upt_a_native_cut.pdb 
+0.7758620689655172
+8upt_a/8upt_a_rf.pdb
+Calculating RMSD for A:1-71 for 8upt_a/processing/8upt_a_rf_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+7.41
+Calculating NATIVE_CONTACT_FRACTON for A:1-71 for 8upt_a/processing/8upt_a_rf_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+0.5
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-71 for extracted_pdb/8upt_a/8upt_a_rf_cut.pdb against extracted_pdb/8upt_a/8upt_a_native_cut.pdb 
+0.5
+8upt_a/8upt_a_rhofold.pdb
+Calculating RMSD for A:1-71 for 8upt_a/processing/8upt_a_rhofold_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+4.12
+Calculating NATIVE_CONTACT_FRACTON for A:1-71 for 8upt_a/processing/8upt_a_rhofold_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+0.7327586206896551
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-71 for extracted_pdb/8upt_a/8upt_a_rhofold_cut.pdb against extracted_pdb/8upt_a/8upt_a_native_cut.pdb 
+0.7327586206896551
+8upt_a/8upt_a_rnac.pdb
+Calculating RMSD for A:1-71 for 8upt_a/processing/8upt_a_rnac_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+14.96
+Calculating NATIVE_CONTACT_FRACTON for A:1-71 for 8upt_a/processing/8upt_a_rnac_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+0.33620689655172414
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-71 for extracted_pdb/8upt_a/8upt_a_rnac_cut.pdb against extracted_pdb/8upt_a/8upt_a_native_cut.pdb 
+0.33620689655172414
+8upt_a/8upt_a_trr.pdb
+Calculating RMSD for A:1-71 for 8upt_a/processing/8upt_a_trr_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+4.52
+Calculating NATIVE_CONTACT_FRACTON for A:1-71 for 8upt_a/processing/8upt_a_trr_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+0.7155172413793104
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-71 for extracted_pdb/8upt_a/8upt_a_trr_cut.pdb against extracted_pdb/8upt_a/8upt_a_native_cut.pdb 
+0.7155172413793104
+8upt_a/8upt_a_3drna.pdb
+Calculating RMSD for A:1-71 for 8upt_a/processing/8upt_a_3drna_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+15.59
+Calculating NATIVE_CONTACT_FRACTON for A:1-71 for 8upt_a/processing/8upt_a_3drna_rpr.pdb against 8upt_a/processing/8upt_a_native_rpr.pdb 
+0.5775862068965517
+Calculating NATIVE_CUT_CONTACT_FRACTON for A:1-71 for extracted_pdb/8upt_a/8upt_a_3drna_cut.pdb against extracted_pdb/8upt_a/8upt_a_native_cut.pdb 
+0.5775862068965517

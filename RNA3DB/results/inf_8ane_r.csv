@@ -1,0 +1,8 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+8ane_r_native_cut.pdb,8ane_r_3drna_cut.pdb,0.49,0.51,0.43,0.0,1.0,0.18,0.0,0.0
+8ane_r_native_cut.pdb,8ane_r_drfold_cut.pdb,0.53,0.52,0.63,0.0,1.0,0.4,0.0,0.0
+8ane_r_native_cut.pdb,8ane_r_native_cut.pdb,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+8ane_r_native_cut.pdb,8ane_r_rf_cut.pdb,0.4,0.45,0.0,0.0,0.0,0.0,0.0,0.0
+8ane_r_native_cut.pdb,8ane_r_rhofold_cut.pdb,0.39,0.36,0.82,0.0,1.0,0.67,0.0,0.0
+8ane_r_native_cut.pdb,8ane_r_rnac_cut.pdb,0.35,0.43,0.0,0.0,0.0,0.0,0.0,0.0
+8ane_r_native_cut.pdb,8ane_r_trr_cut.pdb,0.44,0.42,0.63,0.0,1.0,0.4,0.0,0.0

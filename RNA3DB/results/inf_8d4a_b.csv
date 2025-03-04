@@ -1,0 +1,8 @@
+target,fn,inf_all,inf_stack,inf_WC,inf_nWC,sns_WC,ppv_WC,sns_nWC,ppv_nWC
+8d4a_b_native_cut.pdb,8d4a_b_3drna_cut.pdb,0.69,0.69,0.91,0.0,1.0,0.83,0.0,0.0
+8d4a_b_native_cut.pdb,8d4a_b_drfold_cut.pdb,0.88,0.9,0.89,0.58,0.8,1.0,0.33,1.0
+8d4a_b_native_cut.pdb,8d4a_b_native_cut.pdb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8d4a_b_native_cut.pdb,8d4a_b_rf_cut.pdb,0.74,0.73,1.0,0.0,1.0,1.0,0.0,0.0
+8d4a_b_native_cut.pdb,8d4a_b_rhofold_cut.pdb,0.81,0.84,0.89,0.0,0.8,1.0,0.0,0.0
+8d4a_b_native_cut.pdb,8d4a_b_rnac_cut.pdb,0.54,0.52,0.79,0.0,1.0,0.62,0.0,0.0
+8d4a_b_native_cut.pdb,8d4a_b_trr_cut.pdb,0.81,0.9,0.63,0.0,0.4,1.0,0.0,0.0
